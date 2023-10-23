@@ -2,3 +2,7 @@
 * {
   font-family: 'Microsoft JhengHei';
 }
+
+.q-field--standout.q-field--readonly .q-field__control::before {
+  border: none;
+}
