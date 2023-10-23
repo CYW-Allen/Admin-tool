@@ -4,10 +4,10 @@
       <q-bar class="glossy q-py-md">
         <div class="col text-center text-weight-bold">Game Admin</div>
         <q-space />
-        <q-icon name="fa-solid fa-gear" class="cursor-pointer" title="設定" />
+        <q-icon name="fa-solid fa-gear" class="cursor-pointer" title="設定" @click="appConfigs.showSettingDlg = true" />
       </q-bar>
 
-      <!-- AppSetting component -->
+      <AppSetting />
       <!-- Operpanel component -->
     </q-header>
 
@@ -22,6 +22,7 @@
 
 <script setup>
 import { useAppConfigsStore } from 'src/stores/AppConfigs';
+import AppSetting from 'src/components/app/AppSetting.vue';
 
 const appConfigs = useAppConfigsStore();
 
@@ -29,5 +30,4 @@ function tweakPageH(offset) {
   return { height: offset ? `calc(100vh - ${offset}px)` : '100vh' };
 }
 
-console.log('gameApiUrl', appConfigs.gameApiUrl);
 </script>
