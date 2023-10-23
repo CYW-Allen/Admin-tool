@@ -21,8 +21,13 @@
 </template>
 
 <script setup>
+import { useAppConfigsStore } from 'src/stores/AppConfigs';
+
+const appConfigs = useAppConfigsStore();
 
 function tweakPageH(offset) {
   return { height: offset ? `calc(100vh - ${offset}px)` : '100vh' };
 }
+
+console.log('gameApiUrl', appConfigs.gameApiUrl);
 </script>
