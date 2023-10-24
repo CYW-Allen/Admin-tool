@@ -38,3 +38,30 @@
 .sticky-header-row thead tr:first-child th {
   top: 0;
 }
+
+.queryHistLabel {
+  width: 120px;
+}
+
+.customTable .q-table th {
+  background-color: lightcyan;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.customTable .q-table__top {
+  background-color: lightskyblue;
+}
+
+.customTable .q-table__control {
+  margin: auto;
+}
+
+.customTable .q-table__title {
+  font-weight: bold;
+}
+
+.apexcharts-xaxis {
+  cursor: pointer;
+}

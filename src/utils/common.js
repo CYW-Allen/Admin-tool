@@ -15,7 +15,7 @@ function downloadCsv(filename, data) {
 // formula https://en.wikipedia.org/wiki/HSL_and_HSV#HSL_to_RGB_alternative
 function hsl2Hex(hsl) {
   const { h, s, l } = hsl;
-  const a = s * Math.min(h, 1 - h);
+  const a = s * Math.min(l, 1 - l);
   const f = (n) => {
     const k = (n + h / 30) % 12;
     const colorVal = l - a * Math.max(-1, Math.min(k - 3, 9 - k, 1));
