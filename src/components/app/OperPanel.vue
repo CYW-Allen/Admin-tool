@@ -100,7 +100,7 @@
       </div>
     </q-scroll-area>
 
-    <q-btn id="sendCfg" v-if="operPanel.curFunc !== 'SvrDashBoard'" class="text-subtitle1" glossy color="primary"
+    <q-btn id="sendCfg" v-if="operPanel.curFunc !== 'SvrDashboard'" class="text-subtitle1" glossy color="primary"
       icon="fa-solid fa-magnifying-glass" push @click="operPanel.reqNewData = operPanel.curFunc"
       :disable="operPanel.deactivateReqSending" />
   </div>

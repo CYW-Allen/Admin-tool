@@ -6,3 +6,35 @@
 .q-field--standout.q-field--readonly .q-field__control::before {
   border: none;
 }
+
+.q-table tbody td {
+  font-size: 16px;
+}
+
+.tableDialog {
+  width: 70vw;
+}
+
+.sticky-header-row {
+  max-height: 70vh;
+}
+
+.sticky-header-row .q-table__top {
+  background-color: lightskyblue;
+}
+
+.sticky-header-row thead tr th {
+  position: sticky;
+  z-index: 1;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: lightcyan;
+}
+
+.sticky-header-row thead tr:last-child th {
+  top: 48px;
+}
+
+.sticky-header-row thead tr:first-child th {
+  top: 0;
+}

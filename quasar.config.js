@@ -30,6 +30,7 @@ module.exports = configure((/* ctx */) => ({
   // https://v2.quasar.dev/quasar-cli/boot-files
   boot: [
     'defaultAlert',
+    'apexcharts',
   ],
 
   // https://v2.quasar.dev/quasar-cli-vite/quasar-config-js#css

@@ -45,7 +45,7 @@ export const useAppConfigsStore = defineStore('AppConfigs', () => {
   const showSettingDlg = ref(false);
 
   const appFuncs = [
-    { label: 'Dashboard', value: 'SvrDashBoard' },
+    { label: 'Dashboard', value: 'SvrDashboard' },
     { label: 'Statistic', value: 'SvrStat' },
     { label: 'PlayerInfos', value: 'PlayerInfos' },
     { label: 'Account Relation', value: 'AcntRelation' },

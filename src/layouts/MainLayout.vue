@@ -23,6 +23,8 @@
         <div class="text-green-8 text-h4 q-mb-md">Processing...</div>
         <q-spinner-gears size="10em" color="green-8" />
       </q-inner-loading>
+
+      <ChartTable />
     </q-page-container>
   </q-layout>
 </template>
@@ -33,6 +35,7 @@ import { useAppConfigsStore } from 'src/stores/AppConfigs';
 import { useOperPanelStore } from 'src/stores/OperPanel';
 import AppSetting from 'src/components/app/AppSetting.vue';
 import OperPanel from 'src/components/app/OperPanel.vue';
+import ChartTable from 'src/components/common/ChartTable.vue';
 
 const appConfigs = useAppConfigsStore();
 const operPanel = useOperPanelStore();

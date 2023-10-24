@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia';
 import { computed, ref } from 'vue';
+import { date } from 'quasar';
 import { useAppConfigsStore } from './AppConfigs';
 
 export const useOperPanelStore = defineStore('OperPanel', () => {
@@ -29,7 +30,7 @@ export const useOperPanelStore = defineStore('OperPanel', () => {
       : ''
   ));
   const activateSvrSelector = computed(() => (
-    curFunc.value !== 'SvrDashBoard' && curFunc.value !== 'BanList'
+    curFunc.value !== 'SvrDashboard' && curFunc.value !== 'BanList'
   ));
   const activateInputField = computed(() => (
     curFunc.value === 'PlayerInfos'
@@ -73,6 +74,16 @@ export const useOperPanelStore = defineStore('OperPanel', () => {
   const refreshData = ref(false);
   const delegateQuery = ref(null);
 
+  function getDefaultPeriod() {
+    const dateFormat = 'YYYY-MM-DD';
+    const curTime = new Date();
+
+    return {
+      from: date.formatDate(date.subtractFromDate(curTime, { days: 13 }), dateFormat),
+      to: date.formatDate(curTime, dateFormat),
+    };
+  }
+
   return {
     curFunc,
     autoSwitchFunc,
@@ -93,5 +104,6 @@ export const useOperPanelStore = defineStore('OperPanel', () => {
     banIsProcessing,
     refreshData,
     delegateQuery,
+    getDefaultPeriod,
   };
 });
