@@ -76,6 +76,7 @@ export const useAppConfigsStore = defineStore('AppConfigs', () => {
       console.log('[updateIpLocation] Error: ', err);
       Notify.create('Fail to get location of the ip');
     }
+    return ipLocation.value;
   }
 
   const acntIdInfo = ref({});
@@ -85,7 +86,7 @@ export const useAppConfigsStore = defineStore('AppConfigs', () => {
 
     try {
       const resList = await (Promise.all(acntList.map((acnt) => acntIdInfo.value[acnt.GID]?.UID
-        || axios.get(`${acntApiUrl.value}/gameid/?id=${acnt.GID}&p=RF&roles=0`))));
+        || axios.get(`${acntApiUrl.value}/acnt-${acnt.GID}.json`))));
 
       resList.forEach((res, index) => {
         if (res.data !== undefined) {

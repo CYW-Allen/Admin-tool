@@ -1,0 +1,112 @@
+[
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt1"
+      }
+    ],
+    "Level": 1,
+    "AccountSerial": 18325,
+    "Name": "role1",
+    "Race": "B",
+    "Serial": 59116,
+    "Dalant": 0,
+    "Gold": 0,
+    "StoreAsset": {},
+    "CreateTime": "2022-11-02 11:46:30",
+    "LastLogin": "2023-08-17 15:24:16",
+    "TotalPlayMins": 8,
+    "WeekVoteMins": 5,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "",
+      "Answer": "*"
+    },
+    "BAN": [
+      {
+        "StartTime": "2023-08-18 13:06:58",
+        "Hour": 999,
+        "Type": "account",
+        "Reason": "test ban"
+      },
+      {
+        "StartTime": "2023-08-17 18:16:00",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "subcomp unban"
+      },
+      {
+        "StartTime": "2023-08-17 18:00:45",
+        "Hour": 999,
+        "Type": "account",
+        "Reason": "subcomp ban"
+      },
+      {
+        "StartTime": "2023-08-17 17:56:01",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "subcomp unban"
+      },
+      {
+        "StartTime": "2023-08-17 17:53:24",
+        "Hour": 999,
+        "Type": "account",
+        "Reason": "subcomp test ban"
+      },
+      {
+        "StartTime": "2023-08-17 15:15:38",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "test unban"
+      },
+      {
+        "StartTime": "2023-08-17 15:10:33",
+        "Hour": 999,
+        "Type": "account",
+        "Reason": "test ban"
+      },
+      {
+        "StartTime": "2023-08-17 14:59:54",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "test unban"
+      },
+      {
+        "StartTime": "2023-08-17 14:58:26",
+        "Hour": 999,
+        "Type": "account",
+        "Reason": "test ban"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 0,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 0,
+        "TotalBonus": 0,
+        "TotalOper": 0
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  }
+]

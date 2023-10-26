@@ -1,0 +1,1647 @@
+[
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 75,
+    "AccountSerial": 4216,
+    "Name": "role2",
+    "Race": "C",
+    "Serial": 5488,
+    "Dalant": 3977367354,
+    "Gold": 53192,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 324206,
+    "WeekVoteMins": 632,
+    "WeekHistMins": 692,
+    "Guild": "G1",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [
+      {
+        "Period": 7,
+        "LoginTime": "2023-09-09 00:09:00",
+        "LogoutTime": "2023-09-09 00:16:10",
+        "Level": 75,
+        "IP": "36.225.181.98"
+      },
+      {
+        "Period": 68,
+        "LoginTime": "2023-09-09 01:22:00",
+        "LogoutTime": "2023-09-09 02:29:57",
+        "Level": 75,
+        "IP": "1.165.27.144"
+      },
+      {
+        "Period": 4,
+        "LoginTime": "2023-09-09 03:11:00",
+        "LogoutTime": "2023-09-09 03:14:58",
+        "Level": 75,
+        "IP": "111.240.107.198"
+      },
+      {
+        "Period": 70,
+        "LoginTime": "2023-09-09 04:53:00",
+        "LogoutTime": "2023-09-09 06:02:55",
+        "Level": 75,
+        "IP": "111.253.22.39"
+      },
+      {
+        "Period": 5,
+        "LoginTime": "2023-09-09 13:29:00",
+        "LogoutTime": "2023-09-09 13:34:06",
+        "Level": 75,
+        "IP": "111.240.107.198"
+      },
+      {
+        "Period": 15,
+        "LoginTime": "2023-09-09 13:37:00",
+        "LogoutTime": "2023-09-09 13:52:06",
+        "Level": 75,
+        "IP": "111.240.107.198"
+      },
+      {
+        "Period": 206,
+        "LoginTime": "2023-09-09 20:38:00",
+        "LogoutTime": "2023-09-10 00:04:13",
+        "Level": 75,
+        "IP": "111.253.22.39"
+      },
+      {
+        "Period": 8,
+        "LoginTime": "2023-09-10 00:06:00",
+        "LogoutTime": "2023-09-10 00:14:18",
+        "Level": 75,
+        "IP": "36.230.147.131"
+      },
+      {
+        "Period": 26,
+        "LoginTime": "2023-09-10 23:57:00",
+        "LogoutTime": "2023-09-11 00:23:03",
+        "Level": 75,
+        "IP": "36.230.147.131"
+      },
+      {
+        "Period": 40,
+        "LoginTime": "2023-09-11 01:25:00",
+        "LogoutTime": "2023-09-11 02:05:29",
+        "Level": 75,
+        "IP": "111.240.107.198"
+      },
+      {
+        "Period": 29,
+        "LoginTime": "2023-09-11 04:51:00",
+        "LogoutTime": "2023-09-11 05:19:33",
+        "Level": 75,
+        "IP": "111.253.22.39"
+      },
+      {
+        "Period": 60,
+        "LoginTime": "2023-09-11 12:58:00",
+        "LogoutTime": "2023-09-11 13:57:38",
+        "Level": 75,
+        "IP": "61.224.91.19"
+      },
+      {
+        "Period": 2,
+        "LoginTime": "2023-09-11 20:51:00",
+        "LogoutTime": "2023-09-11 20:52:39",
+        "Level": 75,
+        "IP": "111.253.22.39"
+      },
+      {
+        "Period": 185,
+        "LoginTime": "2023-09-11 20:53:00",
+        "LogoutTime": "2023-09-11 23:58:17",
+        "Level": 75,
+        "IP": "111.253.22.39"
+      },
+      {
+        "Period": 10,
+        "LoginTime": "2023-09-11 23:59:00",
+        "LogoutTime": "2023-09-12 00:08:39",
+        "Level": 75,
+        "IP": "36.230.147.131"
+      },
+      {
+        "Period": 35,
+        "LoginTime": "2023-09-12 04:52:00",
+        "LogoutTime": "2023-09-12 05:27:20",
+        "Level": 75,
+        "IP": "111.253.22.39"
+      },
+      {
+        "Period": 21,
+        "LoginTime": "2023-09-12 13:43:00",
+        "LogoutTime": "2023-09-12 14:03:51",
+        "Level": 75,
+        "IP": "61.224.91.19"
+      },
+      {
+        "Period": 242,
+        "LoginTime": "2023-09-12 19:53:00",
+        "LogoutTime": "2023-09-12 23:54:56",
+        "Level": 75,
+        "IP": "125.230.85.226"
+      },
+      {
+        "Period": 18,
+        "LoginTime": "2023-09-12 23:56:00",
+        "LogoutTime": "2023-09-13 00:13:59",
+        "Level": 75,
+        "IP": "114.25.78.19"
+      },
+      {
+        "Period": 28,
+        "LoginTime": "2023-09-13 04:49:00",
+        "LogoutTime": "2023-09-13 05:17:04",
+        "Level": 75,
+        "IP": "125.230.85.226"
+      }
+    ],
+    "Mall": {
+      "Overview": {
+        "Spend": 2310708,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {
+        "Item39": 60333,
+        "Item6": 9306,
+        "Item93": 7151,
+        "Item92": 3741,
+        "Item57": 3054,
+        "Item114": 2776,
+        "Item26": 2750,
+        "Item118": 2697,
+        "Item107": 2565,
+        "Item351": 2200,
+        "bxevm14": 1280,
+        "Item122": 1101,
+        "Item129": 1054,
+        "bxevm13": 1038,
+        "Item131": 800,
+        "Item132": 744,
+        "Item19": 500,
+        "Item277": 457,
+        "Item145": 437,
+        "Item362": 431
+      },
+      "RankingPrice": [
+        {
+          "Item39": 454111,
+          "Item592": 369900,
+          "bxevm13": 280260,
+          "bxevm14": 230400,
+          "Item57": 215760,
+          "Item595": 107160,
+          "Translation": 82698,
+          "Item599": 62100,
+          "Item597": 58000,
+          "Item277": 54840,
+          "Item93": 50240,
+          "Item351": 44000,
+          "Item411": 39000,
+          "Item488": 19440,
+          "Item107": 16740,
+          "Item582": 14000,
+          "Item114": 13895,
+          "Item523": 10788,
+          "Item19": 10000,
+          "Item6": 9906
+        }
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 41,
+    "AccountSerial": 4216,
+    "Name": "role3",
+    "Race": "C",
+    "Serial": 12599,
+    "Dalant": 181295525,
+    "Gold": 1216,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 2075,
+    "WeekVoteMins": 0,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 472252,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {
+        "Item39": 25400,
+        "Item6": 8600,
+        "Item19": 4600,
+        "Item107": 1650,
+        "Item93": 1400,
+        "Item351": 1400,
+        "Item114": 1200,
+        "Item122": 850,
+        "Item57": 820,
+        "Item131": 800,
+        "Item73": 800,
+        "Item253": 600,
+        "Item220": 400,
+        "Item223": 400,
+        "Item145": 400,
+        "Item118": 400,
+        "Item132": 400,
+        "Item250": 400,
+        "Item362": 400,
+        "Item612": 305
+      },
+      "RankingPrice": [
+        {
+          "Item39": 177800,
+          "Item19": 92000,
+          "Item465": 38400,
+          "Item57": 32800,
+          "Item351": 28000,
+          "Item612": 18300,
+          "Item6": 8600,
+          "Item93": 7000,
+          "Item396": 6840,
+          "Item107": 6600,
+          "Item220": 6000,
+          "Item513": 6000,
+          "Item114": 6000,
+          "Item18": 5400,
+          "Item223": 4800,
+          "Item253": 4200,
+          "Item145": 4000,
+          "Item122": 3400,
+          "Item15": 3360,
+          "Item73": 2400
+        }
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 1,
+    "AccountSerial": 4216,
+    "Name": "*21361",
+    "Race": "C",
+    "Serial": 21361,
+    "Dalant": 0,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 811,
+    "WeekVoteMins": 0,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 1,
+    "AccountSerial": 4216,
+    "Name": "*55180",
+    "Race": "C",
+    "Serial": 55180,
+    "Dalant": 0,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 2,
+    "WeekVoteMins": 0,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 1,
+    "AccountSerial": 4216,
+    "Name": "*55208",
+    "Race": "C",
+    "Serial": 55208,
+    "Dalant": 0,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 46,
+    "WeekVoteMins": 46,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 0,
+    "AccountSerial": 4216,
+    "Name": "*55209",
+    "Race": "C",
+    "Serial": 55209,
+    "Dalant": 0,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 0,
+    "WeekVoteMins": 0,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 1,
+    "AccountSerial": 4216,
+    "Name": "*55314",
+    "Race": "C",
+    "Serial": 55314,
+    "Dalant": 160,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 6,
+    "WeekVoteMins": 5,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 1,
+    "AccountSerial": 4216,
+    "Name": "*55315",
+    "Race": "C",
+    "Serial": 55315,
+    "Dalant": 0,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 0,
+    "WeekVoteMins": 0,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 1,
+    "AccountSerial": 4216,
+    "Name": "*55609",
+    "Race": "B",
+    "Serial": 55609,
+    "Dalant": 0,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 83,
+    "WeekVoteMins": 69,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 1,
+    "AccountSerial": 4216,
+    "Name": "*55681",
+    "Race": "C",
+    "Serial": 55681,
+    "Dalant": 0,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 2,
+    "WeekVoteMins": 0,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 30,
+    "AccountSerial": 4216,
+    "Name": "*55685",
+    "Race": "C",
+    "Serial": 55685,
+    "Dalant": 0,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 82,
+    "WeekVoteMins": 79,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 30,
+    "AccountSerial": 4216,
+    "Name": "*55705",
+    "Race": "C",
+    "Serial": 55705,
+    "Dalant": 0,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 51,
+    "WeekVoteMins": 47,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 30,
+    "AccountSerial": 4216,
+    "Name": "*55711",
+    "Race": "C",
+    "Serial": 55711,
+    "Dalant": 0,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 39,
+    "WeekVoteMins": 34,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 30,
+    "AccountSerial": 4216,
+    "Name": "*55740",
+    "Race": "B",
+    "Serial": 55740,
+    "Dalant": 0,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 85,
+    "WeekVoteMins": 81,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 1,
+    "AccountSerial": 4216,
+    "Name": "*55766",
+    "Race": "A",
+    "Serial": 55766,
+    "Dalant": 0,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 56,
+    "WeekVoteMins": 53,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 30,
+    "AccountSerial": 4216,
+    "Name": "*55778",
+    "Race": "B",
+    "Serial": 55778,
+    "Dalant": 0,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 82,
+    "WeekVoteMins": 75,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 30,
+    "AccountSerial": 4216,
+    "Name": "*55811",
+    "Race": "B",
+    "Serial": 55811,
+    "Dalant": 3715805,
+    "Gold": 107,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 71,
+    "WeekVoteMins": 71,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 31,
+    "AccountSerial": 4216,
+    "Name": "*55834",
+    "Race": "A",
+    "Serial": 55834,
+    "Dalant": 10132739,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 151,
+    "WeekVoteMins": 0,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 30,
+    "AccountSerial": 4216,
+    "Name": "*55980",
+    "Race": "A",
+    "Serial": 55980,
+    "Dalant": 9996932,
+    "Gold": 0,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 77,
+    "WeekVoteMins": 72,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  },
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt2"
+      }
+    ],
+    "Level": 36,
+    "AccountSerial": 4216,
+    "Name": "role11",
+    "Race": "C",
+    "Serial": 55984,
+    "Dalant": 4064237,
+    "Gold": 179,
+    "StoreAsset": {
+      "Dalant-C": 84851398,
+      "Dalant-A": 316703911
+    },
+    "CreateTime": "2022-03-24 19:45:34",
+    "LastLogin": "2023-09-13 04:49:45",
+    "TotalPlayMins": 458,
+    "WeekVoteMins": 0,
+    "WeekHistMins": 0,
+    "Guild": "",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [
+      {
+        "StartTime": "2022-12-06 14:51:23",
+        "Hour": 0,
+        "Type": "account",
+        "Reason": "*"
+      },
+      {
+        "StartTime": "2022-12-06 14:07:42",
+        "Hour": 24,
+        "Type": "account",
+        "Reason": "*"
+      }
+    ],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [],
+    "Mall": {
+      "Overview": {
+        "Spend": 0,
+        "Balance": 4701,
+        "Topup": 0,
+        "Bonus": 0,
+        "TotalTopup": 2184000,
+        "TotalBonus": 597600,
+        "TotalOper": 10300
+      },
+      "RankingAmount": {},
+      "RankingPrice": [
+        {}
+      ]
+    }
+  }
+]

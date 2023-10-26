@@ -25,6 +25,7 @@
       </q-inner-loading>
 
       <ChartTable />
+      <BanUnbanDlg />
     </q-page-container>
   </q-layout>
 </template>
@@ -36,6 +37,7 @@ import { useOperPanelStore } from 'src/stores/OperPanel';
 import AppSetting from 'src/components/app/AppSetting.vue';
 import OperPanel from 'src/components/app/OperPanel.vue';
 import ChartTable from 'src/components/common/ChartTable.vue';
+import BanUnbanDlg from 'src/components/common/BanUnbanDlg.vue';
 
 const appConfigs = useAppConfigsStore();
 const operPanel = useOperPanelStore();

@@ -4,8 +4,10 @@
 
 <script setup>
 import { computed } from 'vue';
+import { date } from 'quasar';
 import { getRandomHexColor } from 'src/utils/common';
 
+const { getDateDiff } = date;
 const props = defineProps({
   chartConfig: {
     type: Object,
@@ -91,7 +93,39 @@ const chartOpts = computed(() => {
         },
       };
     case 'timeBar':
-      return null;
+      return {
+        chart: {
+          type: 'rangeBar',
+          fontFamily: 'Microsoft JhengHei',
+          toolbar: { tools: { download: '<i class="fa-solid fa-download fa-lg"></i>' } },
+        },
+        plotOptions: { bar: { horizontal: true } },
+        dataLabels: {
+          enabled: true,
+          formatter(val) {
+            let diff = getDateDiff(new Date(val[1]), new Date(val[0]), 'minutes');
+            const day = Math.floor(diff / 1440);
+            diff -= day * 1440;
+            const hour = Math.floor(diff / 60);
+            diff -= hour * 60;
+            return `${day ? `${day}天` : ''}${hour ? `${hour}小時` : ''}${diff}分鐘`;
+          },
+        },
+        xaxis: {
+          type: 'datetime',
+          labels: {
+            datetimeFormatter: {
+              year: 'yyyy年',
+              month: 'yyyy年M月',
+              day: 'M月d日',
+              hour: 'HH:mm',
+            },
+          },
+        },
+        yaxis: { show: false },
+        grid: { xaxis: { lines: { show: true } } },
+        tooltip: { x: { format: 'M月d日 HH:mm' } },
+      };
     case 'pie':
       return {
         chart: {
