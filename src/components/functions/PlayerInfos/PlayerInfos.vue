@@ -92,7 +92,7 @@ async function execQueryReq(queryConfig) {
     content: await playerInfos.reqPlayerInfos(queryConfig),
   };
 
-  if (dataInfo.content === null) $q.notify('No data! Change condition and query again.');
+  if (dataInfo.content === null) $q.notify('No data! Change the condition and query again.');
   else if (curCacheIndex === -1) {
     cacheDataInfos.value.push(dataInfo);
     checkQueryCache();

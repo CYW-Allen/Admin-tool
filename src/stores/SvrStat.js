@@ -1,5 +1,4 @@
 import { defineStore } from 'pinia';
-import { Notify } from 'quasar';
 import axios from 'axios';
 import { transformArr, getRandomHexColor } from 'src/utils/common';
 import { useAppConfigsStore } from './AppConfigs';
@@ -113,7 +112,6 @@ export const useSvrStatStore = defineStore('SvrStat', () => {
       return arrangeData(res.data, queryConfig);
     } catch (err) {
       console.log('[reqSvrStat] Error: ', err);
-      Notify.create('Fail to get data');
       return null;
     }
   }
@@ -242,22 +240,23 @@ export const useSvrStatStore = defineStore('SvrStat', () => {
   }
 
   function fillOnlineChartCfg(config, statistic) {
-    const rowProps = Object.keys(statistic[0]).filter((e) => e !== 'time');
+    const dataset = statistic || [];
+    const rowProps = Object.keys(dataset[0] || {}).filter((e) => e !== 'time');
 
     config.chartOpts = {
       type: 'mixed',
-      xaxisLabels: statistic.map((data) => data.time),
+      xaxisLabels: dataset.map((data) => data.time),
       colors: rowProps.map((prop) => appConfigs.racesColor[prop] || getRandomHexColor()),
       series: rowProps.map((prop) => ({
         name: prop,
         type: appConfigs.races.includes(prop) ? 'column' : 'line',
-        data: statistic.map((data) => data[prop]),
+        data: dataset.map((data) => data[prop]),
       })),
     };
   }
 
   function fillOnlineTableCfg(config, statistic, chartViewerCfg) {
-    const dailyRecProps = Object.keys(Object.values(statistic)[0][0]);
+    const dailyRecProps = Object.keys(Object.values(statistic)[0] ? Object.values(statistic)[0][0] : {});
 
     config.tableCfg.title = `Online players in ${chartViewerCfg.viewItem.online}`;
     config.tableCfg.colCfg = dailyRecProps.map((prop) => ({
@@ -268,7 +267,7 @@ export const useSvrStatStore = defineStore('SvrStat', () => {
       align: 'left',
       style: 'font-size:16px',
     }));
-    config.tableCfg.rowData = statistic[chartViewerCfg.viewItem.online];
+    config.tableCfg.rowData = statistic ? statistic[chartViewerCfg.viewItem.online] : [];
   }
 
   return {

@@ -108,7 +108,7 @@ const chartViewerCfg = reactive({
   },
   viewSubItem: null,
 });
-const maxLevel = computed(() => props.data.level.normal.players.length - 1);
+const maxLevel = computed(() => Math.abs(props.data.level.normal.players.length - 1) || 1);
 const levelRange = ref({ min: 1, max: maxLevel.value });
 const viewItemOptions = computed(() => Object.keys(props.data[chartViewerCfg.category]));
 const subItemOptions = computed(() => {

@@ -36,11 +36,13 @@
 import {
   computed, onActivated, ref, watch,
 } from 'vue';
+import { useQuasar } from 'quasar';
 import { useAppConfigsStore } from 'src/stores/AppConfigs';
 import { useOperPanelStore } from 'src/stores/OperPanel';
 import { useSvrStatStore } from 'src/stores/SvrStat';
 import DataBlock from './DataBlock.vue';
 
+const $q = useQuasar();
 const appConfigs = useAppConfigsStore();
 const operPanel = useOperPanelStore();
 const svrStat = useSvrStatStore();
@@ -94,7 +96,8 @@ watch(() => operPanel.reqNewData, async (v) => {
       content: await svrStat.reqSvrStat(operPanel.queryConfig),
     };
 
-    if (curCacheIndex === -1) {
+    if (dataInfo.content === null) $q.notify('Fail to get data! Change the condition and query again.');
+    else if (curCacheIndex === -1) {
       cacheDataInfos.value.push(dataInfo);
       checkQueryCache();
       rightsideCacheIndex.value = cacheDataInfos.value.length - 1;
