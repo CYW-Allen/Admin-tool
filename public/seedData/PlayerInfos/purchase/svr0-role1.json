@@ -1,7 +1,7 @@
 [
   {
     "Account": "acnt0",
-    "名稱": "role1",
+    "Name": "role1",
     "purchase": [
       {
         "buyer": "role1",

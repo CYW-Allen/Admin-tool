@@ -220,7 +220,7 @@ function copy2dev() {
 
 async function showBanDlg(status) {
   operPanel.banBatches = [{
-    action: status === 'normal' ? 'ban' : 'unban',
+    action: status === 'Normal' ? 'ban' : 'unban',
     GID: roleDataRecs.value[curRole.value].tableConfig.info.row[0].val.GID,
     name: curRole.value,
     acntSN: roleDataRecs.value[curRole.value].tableConfig.info.row[2].val,
