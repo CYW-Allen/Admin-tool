@@ -75,8 +75,8 @@
           </template>
         </q-btn>
         <q-btn v-else-if="displayType === 'info' && props.rowIndex === 17"
-          :loading="operPanel.banIsProcessing === dataIndex" :label="`${props.value === 'normal' ? 'lock' : 'unlock'}`"
-          class="glossy q-ml-md q-px-sm" :color="`${props.value === 'normal' ? 'negative' : 'positive'}`" dense
+          :loading="operPanel.banIsProcessing === dataIndex" :label="`${props.value === 'Normal' ? 'lock' : 'unlock'}`"
+          class="glossy q-ml-md q-px-sm" :color="`${props.value === 'Normal' ? 'negative' : 'positive'}`" dense
           @click="showBanDlg(props.value)" />
       </q-td>
     </template>
