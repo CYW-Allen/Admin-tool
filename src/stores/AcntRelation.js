@@ -54,8 +54,6 @@ export const useAcntRelationStore = defineStore('AcntRelation', () => {
       let isFound = false;
       acntInfo.roles.some((role) => {
         if (Number(role.server_id) === Number(svrId) && curAcnt.toLowerCase() === role.Name.toLowerCase()) {
-          console.log('role', role);
-          console.log('curAcnt', curAcnt);
           moveEle2Head(acntList, index);
           isFound = true;
         }

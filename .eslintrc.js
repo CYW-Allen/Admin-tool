@@ -75,6 +75,7 @@ module.exports = {
     "linebreak-style": 0,
     'max-len': 'off',
     'no-plusplus': 'off',
+    'lines-between-class-members': 'off',
 
     // allow debugger during development only
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off'

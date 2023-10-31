@@ -1,0 +1,1774 @@
+{
+  "Morning": {
+    "A": [],
+    "B": [
+      {
+        "role": "role1755",
+        "dmg": 4612,
+        "counter": 1,
+        "race": "A"
+      }
+    ],
+    "C": [
+      {
+        "role": "role1",
+        "dmg": 27750667,
+        "counter": 142,
+        "race": "A"
+      },
+      {
+        "role": "role98",
+        "dmg": 26588603,
+        "counter": 138,
+        "race": "A"
+      },
+      {
+        "role": "role52",
+        "dmg": 22455175,
+        "counter": 82,
+        "race": "A"
+      },
+      {
+        "role": "role47",
+        "dmg": 21646158,
+        "counter": 126,
+        "race": "A"
+      },
+      {
+        "role": "role599",
+        "dmg": 16832011,
+        "counter": 134,
+        "race": "A"
+      },
+      {
+        "role": "role75",
+        "dmg": 11551949,
+        "counter": 76,
+        "race": "A"
+      },
+      {
+        "role": "role386",
+        "dmg": 11147294,
+        "counter": 127,
+        "race": "A"
+      },
+      {
+        "role": "role111",
+        "dmg": 11110643,
+        "counter": 83,
+        "race": "A"
+      },
+      {
+        "role": "role169",
+        "dmg": 9678070,
+        "counter": 67,
+        "race": "A"
+      },
+      {
+        "role": "role104",
+        "dmg": 9293521,
+        "counter": 70,
+        "race": "A"
+      },
+      {
+        "role": "role621",
+        "dmg": 8556111,
+        "counter": 45,
+        "race": "A"
+      },
+      {
+        "role": "role481",
+        "dmg": 8503611,
+        "counter": 81,
+        "race": "A"
+      },
+      {
+        "role": "role73",
+        "dmg": 8461088,
+        "counter": 74,
+        "race": "A"
+      },
+      {
+        "role": "role394",
+        "dmg": 6153342,
+        "counter": 88,
+        "race": "A"
+      },
+      {
+        "role": "role212",
+        "dmg": 5685749,
+        "counter": 55,
+        "race": "A"
+      },
+      {
+        "role": "role438",
+        "dmg": 5594471,
+        "counter": 57,
+        "race": "A"
+      },
+      {
+        "role": "role967",
+        "dmg": 4627118,
+        "counter": 76,
+        "race": "A"
+      },
+      {
+        "role": "role184",
+        "dmg": 4216903,
+        "counter": 81,
+        "race": "A"
+      },
+      {
+        "role": "role2608",
+        "dmg": 3510906,
+        "counter": 46,
+        "race": "A"
+      },
+      {
+        "role": "role1628",
+        "dmg": 1260950,
+        "counter": 20,
+        "race": "A"
+      },
+      {
+        "role": "role618",
+        "dmg": 533824,
+        "counter": 1,
+        "race": "A"
+      }
+    ],
+    "KD": {}
+  },
+  "Afternoon": {
+    "A": [
+      {
+        "role": "role26",
+        "dmg": 21115150,
+        "counter": 87,
+        "race": "C"
+      },
+      {
+        "role": "SU",
+        "dmg": 20462864,
+        "counter": 70,
+        "race": "C"
+      },
+      {
+        "role": "role33",
+        "dmg": 17160272,
+        "counter": 93,
+        "race": "C"
+      },
+      {
+        "role": "role183",
+        "dmg": 17049616,
+        "counter": 76,
+        "race": "C"
+      },
+      {
+        "role": "role143",
+        "dmg": 16164776,
+        "counter": 80,
+        "race": "C"
+      },
+      {
+        "role": "role128",
+        "dmg": 16099217,
+        "counter": 89,
+        "race": "C"
+      },
+      {
+        "role": "role826",
+        "dmg": 15092119,
+        "counter": 171,
+        "race": "C"
+      },
+      {
+        "role": "role5266",
+        "dmg": 13985574,
+        "counter": 94,
+        "race": "C"
+      },
+      {
+        "role": "role3649",
+        "dmg": 13581305,
+        "counter": 88,
+        "race": "C"
+      },
+      {
+        "role": "role542",
+        "dmg": 13425446,
+        "counter": 77,
+        "race": "C"
+      },
+      {
+        "role": "role486",
+        "dmg": 13384669,
+        "counter": 148,
+        "race": "C"
+      },
+      {
+        "role": "role2162",
+        "dmg": 11429447,
+        "counter": 84,
+        "race": "C"
+      },
+      {
+        "role": "role994",
+        "dmg": 11012656,
+        "counter": 57,
+        "race": "C"
+      },
+      {
+        "role": "role48",
+        "dmg": 11006980,
+        "counter": 87,
+        "race": "C"
+      },
+      {
+        "role": "role70",
+        "dmg": 9382350,
+        "counter": 67,
+        "race": "B"
+      },
+      {
+        "role": "role1177",
+        "dmg": 8543283,
+        "counter": 82,
+        "race": "C"
+      },
+      {
+        "role": "role48",
+        "dmg": 8001031,
+        "counter": 45,
+        "race": "C"
+      },
+      {
+        "role": "role121",
+        "dmg": 7329900,
+        "counter": 73,
+        "race": "C"
+      },
+      {
+        "role": "role181",
+        "dmg": 6275332,
+        "counter": 40,
+        "race": "B"
+      },
+      {
+        "role": "role204",
+        "dmg": 4993105,
+        "counter": 158,
+        "race": "C"
+      },
+      {
+        "role": "role342",
+        "dmg": 4953073,
+        "counter": 27,
+        "race": "C"
+      },
+      {
+        "role": "role652",
+        "dmg": 4271428,
+        "counter": 88,
+        "race": "C"
+      },
+      {
+        "role": "role1355",
+        "dmg": 3527650,
+        "counter": 35,
+        "race": "B"
+      },
+      {
+        "role": "role3966",
+        "dmg": 3398336,
+        "counter": 70,
+        "race": "C"
+      },
+      {
+        "role": "role588",
+        "dmg": 3333727,
+        "counter": 44,
+        "race": "C"
+      },
+      {
+        "role": "role144",
+        "dmg": 3240086,
+        "counter": 19,
+        "race": "C"
+      },
+      {
+        "role": "role846",
+        "dmg": 3001706,
+        "counter": 41,
+        "race": "C"
+      },
+      {
+        "role": "role1133",
+        "dmg": 2643045,
+        "counter": 87,
+        "race": "C"
+      },
+      {
+        "role": "role295",
+        "dmg": 2379283,
+        "counter": 16,
+        "race": "C"
+      },
+      {
+        "role": "role3994",
+        "dmg": 1901050,
+        "counter": 26,
+        "race": "C"
+      },
+      {
+        "role": "role2654",
+        "dmg": 1870675,
+        "counter": 23,
+        "race": "C"
+      },
+      {
+        "role": "role2008",
+        "dmg": 1848237,
+        "counter": 45,
+        "race": "C"
+      },
+      {
+        "role": "role2314",
+        "dmg": 1674593,
+        "counter": 44,
+        "race": "C"
+      },
+      {
+        "role": "role668",
+        "dmg": 617032,
+        "counter": 21,
+        "race": "C"
+      },
+      {
+        "role": "role248",
+        "dmg": 603957,
+        "counter": 9,
+        "race": "C"
+      },
+      {
+        "role": "role275",
+        "dmg": 313010,
+        "counter": 6,
+        "race": "C"
+      },
+      {
+        "role": "role1544",
+        "dmg": 215893,
+        "counter": 5,
+        "race": "C"
+      },
+      {
+        "role": "role3546",
+        "dmg": 82305,
+        "counter": 1,
+        "race": "C"
+      },
+      {
+        "role": "role21",
+        "dmg": 162,
+        "counter": 1,
+        "race": "C"
+      }
+    ],
+    "B": [
+      {
+        "role": "role47",
+        "dmg": 27611099,
+        "counter": 90,
+        "race": "A"
+      },
+      {
+        "role": "role52",
+        "dmg": 27284805,
+        "counter": 85,
+        "race": "A"
+      },
+      {
+        "role": "role621",
+        "dmg": 25765746,
+        "counter": 99,
+        "race": "A"
+      },
+      {
+        "role": "role111",
+        "dmg": 21345617,
+        "counter": 96,
+        "race": "A"
+      },
+      {
+        "role": "role196",
+        "dmg": 20112501,
+        "counter": 90,
+        "race": "A"
+      },
+      {
+        "role": "role599",
+        "dmg": 19431837,
+        "counter": 82,
+        "race": "A"
+      },
+      {
+        "role": "role618",
+        "dmg": 19140379,
+        "counter": 101,
+        "race": "A"
+      },
+      {
+        "role": "role155",
+        "dmg": 16872689,
+        "counter": 80,
+        "race": "A"
+      },
+      {
+        "role": "role438",
+        "dmg": 16366776,
+        "counter": 118,
+        "race": "A"
+      },
+      {
+        "role": "role1",
+        "dmg": 14483056,
+        "counter": 74,
+        "race": "A"
+      },
+      {
+        "role": "role98",
+        "dmg": 14378213,
+        "counter": 65,
+        "race": "A"
+      },
+      {
+        "role": "role75",
+        "dmg": 13067843,
+        "counter": 79,
+        "race": "A"
+      },
+      {
+        "role": "role169",
+        "dmg": 12948064,
+        "counter": 59,
+        "race": "A"
+      },
+      {
+        "role": "role386",
+        "dmg": 10196741,
+        "counter": 104,
+        "race": "A"
+      },
+      {
+        "role": "role73",
+        "dmg": 5294330,
+        "counter": 38,
+        "race": "A"
+      },
+      {
+        "role": "role967",
+        "dmg": 4624329,
+        "counter": 72,
+        "race": "A"
+      },
+      {
+        "role": "role394",
+        "dmg": 4503384,
+        "counter": 43,
+        "race": "A"
+      },
+      {
+        "role": "role184",
+        "dmg": 691991,
+        "counter": 7,
+        "race": "A"
+      }
+    ],
+    "C": [],
+    "KD": {
+      "role599": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "A"
+      },
+      "SU": {
+        "K": 8,
+        "K60": 8,
+        "D": 0,
+        "race": "C"
+      },
+      "role73": {
+        "K": 5,
+        "K60": 5,
+        "D": 0,
+        "race": "A"
+      },
+      "role2559": {
+        "K": 4,
+        "K60": 4,
+        "D": 0,
+        "race": "B"
+      },
+      "role169": {
+        "K": 4,
+        "K60": 4,
+        "D": 1,
+        "race": "A"
+      },
+      "role48": {
+        "K": 3,
+        "K60": 3,
+        "D": 0,
+        "race": "C"
+      },
+      "role155": {
+        "K": 3,
+        "K60": 3,
+        "D": 1,
+        "race": "A"
+      },
+      "role342": {
+        "K": 2,
+        "K60": 2,
+        "D": 2,
+        "race": "C"
+      },
+      "role2162": {
+        "K": 2,
+        "K60": 2,
+        "D": 0,
+        "race": "C"
+      },
+      "role128": {
+        "K": 2,
+        "K60": 2,
+        "D": 0,
+        "race": "C"
+      },
+      "role33": {
+        "K": 2,
+        "K60": 2,
+        "D": 0,
+        "race": "C"
+      },
+      "role75": {
+        "K": 1,
+        "K60": 1,
+        "D": 1,
+        "race": "A"
+      },
+      "role621": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "A"
+      },
+      "role1": {
+        "K": 1,
+        "K60": 1,
+        "D": 4,
+        "race": "A"
+      },
+      "role1355": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "B"
+      },
+      "role438": {
+        "K": 1,
+        "K60": 1,
+        "D": 1,
+        "race": "A"
+      },
+      "role47": {
+        "K": 2,
+        "K60": 1,
+        "D": 2,
+        "race": "A"
+      },
+      "role931": {
+        "K": 1,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role2654": {
+        "K": 1,
+        "K60": 0,
+        "D": 0,
+        "race": "C"
+      },
+      "role196": {
+        "K": 0,
+        "K60": 0,
+        "D": 3,
+        "race": "A"
+      },
+      "role144": {
+        "K": 0,
+        "K60": 0,
+        "D": 2,
+        "race": "C"
+      },
+      "role386": {
+        "K": 0,
+        "K60": 0,
+        "D": 2,
+        "race": "A"
+      },
+      "role204": {
+        "K": 0,
+        "K60": 0,
+        "D": 2,
+        "race": "C"
+      },
+      "role111": {
+        "K": 0,
+        "K60": 0,
+        "D": 2,
+        "race": "A"
+      },
+      "role588": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role8421": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role3546": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role8401": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role2314": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role299": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "A"
+      },
+      "role3428": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "A"
+      },
+      "role26": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role8981": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "B"
+      },
+      "role248": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role618": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "A"
+      },
+      "role143": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role98": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "A"
+      },
+      "role295": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role183": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role2008": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role394": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "A"
+      },
+      "role826": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role184": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "A"
+      }
+    }
+  },
+  "Evening": {
+    "A": [
+      {
+        "role": "role183",
+        "dmg": 27867759,
+        "counter": 112,
+        "race": "C"
+      },
+      {
+        "role": "role2162",
+        "dmg": 23601161,
+        "counter": 157,
+        "race": "C"
+      },
+      {
+        "role": "role342",
+        "dmg": 19534371,
+        "counter": 102,
+        "race": "C"
+      },
+      {
+        "role": "role143",
+        "dmg": 19141159,
+        "counter": 95,
+        "race": "C"
+      },
+      {
+        "role": "role5341",
+        "dmg": 18597032,
+        "counter": 118,
+        "race": "B"
+      },
+      {
+        "role": "role48",
+        "dmg": 18188035,
+        "counter": 132,
+        "race": "C"
+      },
+      {
+        "role": "role486",
+        "dmg": 14920955,
+        "counter": 122,
+        "race": "C"
+      },
+      {
+        "role": "role248",
+        "dmg": 14214151,
+        "counter": 115,
+        "race": "C"
+      },
+      {
+        "role": "role70",
+        "dmg": 13968251,
+        "counter": 91,
+        "race": "B"
+      },
+      {
+        "role": "role826",
+        "dmg": 13398941,
+        "counter": 175,
+        "race": "C"
+      },
+      {
+        "role": "role200",
+        "dmg": 13194543,
+        "counter": 53,
+        "race": "C"
+      },
+      {
+        "role": "role376",
+        "dmg": 12853383,
+        "counter": 51,
+        "race": "C"
+      },
+      {
+        "role": "role128",
+        "dmg": 12712150,
+        "counter": 85,
+        "race": "C"
+      },
+      {
+        "role": "role7569",
+        "dmg": 12102716,
+        "counter": 89,
+        "race": "C"
+      },
+      {
+        "role": "role441",
+        "dmg": 11923501,
+        "counter": 88,
+        "race": "B"
+      },
+      {
+        "role": "role445",
+        "dmg": 11440473,
+        "counter": 86,
+        "race": "C"
+      },
+      {
+        "role": "role2008",
+        "dmg": 10190519,
+        "counter": 221,
+        "race": "C"
+      },
+      {
+        "role": "role306",
+        "dmg": 9134408,
+        "counter": 169,
+        "race": "C"
+      },
+      {
+        "role": "role181",
+        "dmg": 8849213,
+        "counter": 44,
+        "race": "B"
+      },
+      {
+        "role": "role38",
+        "dmg": 8599036,
+        "counter": 49,
+        "race": "B"
+      },
+      {
+        "role": "role8996",
+        "dmg": 8555136,
+        "counter": 68,
+        "race": "C"
+      },
+      {
+        "role": "role204",
+        "dmg": 8182862,
+        "counter": 302,
+        "race": "C"
+      },
+      {
+        "role": "role2468",
+        "dmg": 8127755,
+        "counter": 137,
+        "race": "C"
+      },
+      {
+        "role": "role144",
+        "dmg": 7986935,
+        "counter": 66,
+        "race": "C"
+      },
+      {
+        "role": "role2314",
+        "dmg": 7611160,
+        "counter": 214,
+        "race": "C"
+      },
+      {
+        "role": "role3586",
+        "dmg": 7134700,
+        "counter": 115,
+        "race": "C"
+      },
+      {
+        "role": "role1355",
+        "dmg": 7068729,
+        "counter": 58,
+        "race": "B"
+      },
+      {
+        "role": "role652",
+        "dmg": 6818743,
+        "counter": 127,
+        "race": "C"
+      },
+      {
+        "role": "role9986",
+        "dmg": 6304407,
+        "counter": 90,
+        "race": "C"
+      },
+      {
+        "role": "role8401",
+        "dmg": 5873571,
+        "counter": 188,
+        "race": "C"
+      },
+      {
+        "role": "role9788",
+        "dmg": 5866693,
+        "counter": 106,
+        "race": "C"
+      },
+      {
+        "role": "role1177",
+        "dmg": 5781583,
+        "counter": 82,
+        "race": "C"
+      },
+      {
+        "role": "role91",
+        "dmg": 5778934,
+        "counter": 51,
+        "race": "B"
+      },
+      {
+        "role": "role121",
+        "dmg": 5510151,
+        "counter": 74,
+        "race": "C"
+      },
+      {
+        "role": "role2025",
+        "dmg": 5485629,
+        "counter": 94,
+        "race": "C"
+      },
+      {
+        "role": "role256",
+        "dmg": 5180199,
+        "counter": 121,
+        "race": "C"
+      },
+      {
+        "role": "role502",
+        "dmg": 4940102,
+        "counter": 132,
+        "race": "B"
+      },
+      {
+        "role": "role588",
+        "dmg": 4884123,
+        "counter": 39,
+        "race": "C"
+      },
+      {
+        "role": "role5642",
+        "dmg": 4602514,
+        "counter": 81,
+        "race": "B"
+      },
+      {
+        "role": "role5810",
+        "dmg": 4377713,
+        "counter": 78,
+        "race": "C"
+      },
+      {
+        "role": "role3006",
+        "dmg": 4300572,
+        "counter": 48,
+        "race": "B"
+      },
+      {
+        "role": "role1544",
+        "dmg": 4101318,
+        "counter": 119,
+        "race": "C"
+      },
+      {
+        "role": "role33",
+        "dmg": 3882849,
+        "counter": 30,
+        "race": "C"
+      },
+      {
+        "role": "role295",
+        "dmg": 3669991,
+        "counter": 30,
+        "race": "C"
+      },
+      {
+        "role": "role7998",
+        "dmg": 3663325,
+        "counter": 82,
+        "race": "B"
+      },
+      {
+        "role": "SU",
+        "dmg": 3538792,
+        "counter": 19,
+        "race": "C"
+      },
+      {
+        "role": "role5266",
+        "dmg": 3529992,
+        "counter": 26,
+        "race": "C"
+      },
+      {
+        "role": "role26",
+        "dmg": 3214543,
+        "counter": 28,
+        "race": "C"
+      },
+      {
+        "role": "role668",
+        "dmg": 2973043,
+        "counter": 79,
+        "race": "C"
+      },
+      {
+        "role": "role1314",
+        "dmg": 2818496,
+        "counter": 33,
+        "race": "B"
+      },
+      {
+        "role": "role588",
+        "dmg": 2693266,
+        "counter": 32,
+        "race": "C"
+      },
+      {
+        "role": "role4694",
+        "dmg": 2671622,
+        "counter": 34,
+        "race": "C"
+      },
+      {
+        "role": "role53",
+        "dmg": 2579790,
+        "counter": 22,
+        "race": "C"
+      },
+      {
+        "role": "role222",
+        "dmg": 2500295,
+        "counter": 42,
+        "race": "B"
+      },
+      {
+        "role": "role994",
+        "dmg": 2405724,
+        "counter": 12,
+        "race": "C"
+      },
+      {
+        "role": "role4907",
+        "dmg": 2236220,
+        "counter": 141,
+        "race": "C"
+      },
+      {
+        "role": "role875",
+        "dmg": 1962498,
+        "counter": 18,
+        "race": "B"
+      },
+      {
+        "role": "role6579",
+        "dmg": 1799017,
+        "counter": 65,
+        "race": "C"
+      },
+      {
+        "role": "role8336",
+        "dmg": 1466959,
+        "counter": 12,
+        "race": "C"
+      },
+      {
+        "role": "role173",
+        "dmg": 1422435,
+        "counter": 8,
+        "race": "C"
+      },
+      {
+        "role": "role45",
+        "dmg": 1404248,
+        "counter": 85,
+        "race": "C"
+      },
+      {
+        "role": "role9958",
+        "dmg": 1345766,
+        "counter": 8,
+        "race": "C"
+      },
+      {
+        "role": "role99",
+        "dmg": 1278145,
+        "counter": 32,
+        "race": "C"
+      },
+      {
+        "role": "role941",
+        "dmg": 1277919,
+        "counter": 134,
+        "race": "C"
+      },
+      {
+        "role": "role7140",
+        "dmg": 1203943,
+        "counter": 6,
+        "race": "C"
+      },
+      {
+        "role": "role604",
+        "dmg": 841904,
+        "counter": 19,
+        "race": "B"
+      },
+      {
+        "role": "role542",
+        "dmg": 833570,
+        "counter": 6,
+        "race": "C"
+      },
+      {
+        "role": "role896",
+        "dmg": 807683,
+        "counter": 7,
+        "race": "B"
+      },
+      {
+        "role": "role146",
+        "dmg": 697124,
+        "counter": 30,
+        "race": "C"
+      },
+      {
+        "role": "role994",
+        "dmg": 548769,
+        "counter": 9,
+        "race": "C"
+      },
+      {
+        "role": "role63",
+        "dmg": 487455,
+        "counter": 1,
+        "race": "B"
+      },
+      {
+        "role": "role275",
+        "dmg": 467513,
+        "counter": 4,
+        "race": "C"
+      },
+      {
+        "role": "role90",
+        "dmg": 446361,
+        "counter": 72,
+        "race": "C"
+      },
+      {
+        "role": "role8452",
+        "dmg": 350149,
+        "counter": 24,
+        "race": "B"
+      },
+      {
+        "role": "role7264",
+        "dmg": 274970,
+        "counter": 5,
+        "race": "B"
+      },
+      {
+        "role": "role9191",
+        "dmg": 197908,
+        "counter": 9,
+        "race": "C"
+      }
+    ],
+    "B": [],
+    "C": [
+      {
+        "role": "role618",
+        "dmg": 6228673,
+        "counter": 32,
+        "race": "A"
+      },
+      {
+        "role": "role169",
+        "dmg": 5604487,
+        "counter": 26,
+        "race": "A"
+      },
+      {
+        "role": "role196",
+        "dmg": 5031147,
+        "counter": 22,
+        "race": "A"
+      },
+      {
+        "role": "role8350",
+        "dmg": 2403867,
+        "counter": 16,
+        "race": "A"
+      },
+      {
+        "role": "role75",
+        "dmg": 1849609,
+        "counter": 15,
+        "race": "A"
+      },
+      {
+        "role": "role8215",
+        "dmg": 1567832,
+        "counter": 12,
+        "race": "A"
+      },
+      {
+        "role": "role73",
+        "dmg": 1554152,
+        "counter": 14,
+        "race": "A"
+      },
+      {
+        "role": "role9000",
+        "dmg": 1521462,
+        "counter": 12,
+        "race": "A"
+      },
+      {
+        "role": "role32",
+        "dmg": 973666,
+        "counter": 17,
+        "race": "A"
+      },
+      {
+        "role": "role7596",
+        "dmg": 956201,
+        "counter": 9,
+        "race": "A"
+      },
+      {
+        "role": "role787",
+        "dmg": 801240,
+        "counter": 11,
+        "race": "A"
+      },
+      {
+        "role": "role597",
+        "dmg": 641415,
+        "counter": 10,
+        "race": "A"
+      },
+      {
+        "role": "role559",
+        "dmg": 526780,
+        "counter": 3,
+        "race": "A"
+      },
+      {
+        "role": "role3499",
+        "dmg": 197035,
+        "counter": 10,
+        "race": "A"
+      }
+    ],
+    "KD": {
+      "role599": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "A"
+      },
+      "role9986": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "C"
+      },
+      "role33": {
+        "K": 8,
+        "K60": 8,
+        "D": 1,
+        "race": "C"
+      },
+      "role441": {
+        "K": 5,
+        "K60": 5,
+        "D": 0,
+        "race": "B"
+      },
+      "role2559": {
+        "K": 5,
+        "K60": 5,
+        "D": 0,
+        "race": "B"
+      },
+      "role538": {
+        "K": 5,
+        "K60": 5,
+        "D": 0,
+        "race": "C"
+      },
+      "role169": {
+        "K": 5,
+        "K60": 5,
+        "D": 6,
+        "race": "A"
+      },
+      "role376": {
+        "K": 5,
+        "K60": 5,
+        "D": 0,
+        "race": "C"
+      },
+      "role5266": {
+        "K": 3,
+        "K60": 3,
+        "D": 0,
+        "race": "C"
+      },
+      "role200": {
+        "K": 3,
+        "K60": 3,
+        "D": 0,
+        "race": "C"
+      },
+      "role342": {
+        "K": 3,
+        "K60": 3,
+        "D": 0,
+        "race": "C"
+      },
+      "SU": {
+        "K": 3,
+        "K60": 3,
+        "D": 0,
+        "race": "C"
+      },
+      "role75": {
+        "K": 3,
+        "K60": 3,
+        "D": 1,
+        "race": "A"
+      },
+      "role7140": {
+        "K": 3,
+        "K60": 3,
+        "D": 0,
+        "race": "C"
+      },
+      "role8996": {
+        "K": 2,
+        "K60": 2,
+        "D": 1,
+        "race": "C"
+      },
+      "role70": {
+        "K": 2,
+        "K60": 2,
+        "D": 0,
+        "race": "B"
+      },
+      "role181": {
+        "K": 2,
+        "K60": 2,
+        "D": 0,
+        "race": "B"
+      },
+      "role8350": {
+        "K": 2,
+        "K60": 2,
+        "D": 4,
+        "race": "A"
+      },
+      "role183": {
+        "K": 2,
+        "K60": 2,
+        "D": 0,
+        "race": "C"
+      },
+      "role38": {
+        "K": 2,
+        "K60": 2,
+        "D": 0,
+        "race": "B"
+      },
+      "role128": {
+        "K": 2,
+        "K60": 2,
+        "D": 0,
+        "race": "C"
+      },
+      "role9000": {
+        "K": 2,
+        "K60": 2,
+        "D": 6,
+        "race": "A"
+      },
+      "role9924": {
+        "K": 2,
+        "K60": 2,
+        "D": 0,
+        "race": "C"
+      },
+      "role1177": {
+        "K": 2,
+        "K60": 2,
+        "D": 1,
+        "race": "C"
+      },
+      "role52": {
+        "K": 2,
+        "K60": 2,
+        "D": 1,
+        "race": "A"
+      },
+      "role8215": {
+        "K": 4,
+        "K60": 1,
+        "D": 2,
+        "race": "A"
+      },
+      "role47": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "A"
+      },
+      "role445": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "C"
+      },
+      "role546": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "B"
+      },
+      "role48": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "C"
+      },
+      "role143": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "C"
+      },
+      "role248": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "C"
+      },
+      "role7596": {
+        "K": 1,
+        "K60": 1,
+        "D": 1,
+        "race": "A"
+      },
+      "role9958": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "C"
+      },
+      "role9555": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "C"
+      },
+      "role486": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "C"
+      },
+      "role542": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "C"
+      },
+      "role555": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "C"
+      },
+      "role144": {
+        "K": 1,
+        "K60": 1,
+        "D": 1,
+        "race": "C"
+      },
+      "role295": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "C"
+      },
+      "role275": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "C"
+      },
+      "role121": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "C"
+      },
+      "role26": {
+        "K": 1,
+        "K60": 1,
+        "D": 0,
+        "race": "C"
+      },
+      "role875": {
+        "K": 1,
+        "K60": 1,
+        "D": 1,
+        "race": "B"
+      },
+      "role1628": {
+        "K": 2,
+        "K60": 1,
+        "D": 2,
+        "race": "A"
+      },
+      "role73": {
+        "K": 1,
+        "K60": 0,
+        "D": 5,
+        "race": "A"
+      },
+      "role196": {
+        "K": 0,
+        "K60": 0,
+        "D": 6,
+        "race": "A"
+      },
+      "role8794": {
+        "K": 0,
+        "K60": 0,
+        "D": 5,
+        "race": "A"
+      },
+      "role177": {
+        "K": 0,
+        "K60": 0,
+        "D": 4,
+        "race": "A"
+      },
+      "role6661": {
+        "K": 0,
+        "K60": 0,
+        "D": 4,
+        "race": "A"
+      },
+      "role597": {
+        "K": 0,
+        "K60": 0,
+        "D": 3,
+        "race": "A"
+      },
+      "role559": {
+        "K": 0,
+        "K60": 0,
+        "D": 3,
+        "race": "A"
+      },
+      "role618": {
+        "K": 0,
+        "K60": 0,
+        "D": 3,
+        "race": "A"
+      },
+      "role3499": {
+        "K": 0,
+        "K60": 0,
+        "D": 3,
+        "race": "A"
+      },
+      "BD1": {
+        "K": 0,
+        "K60": 0,
+        "D": 3,
+        "race": "A"
+      },
+      "role787": {
+        "K": 0,
+        "K60": 0,
+        "D": 2,
+        "race": "A"
+      },
+      "role826": {
+        "K": 0,
+        "K60": 0,
+        "D": 2,
+        "race": "C"
+      },
+      "role32": {
+        "K": 0,
+        "K60": 0,
+        "D": 2,
+        "race": "A"
+      },
+      "role155": {
+        "K": 0,
+        "K60": 0,
+        "D": 2,
+        "race": "A"
+      },
+      "role438": {
+        "K": 0,
+        "K60": 0,
+        "D": 2,
+        "race": "A"
+      },
+      "role307": {
+        "K": 0,
+        "K60": 0,
+        "D": 2,
+        "race": "C"
+      },
+      "N0N0": {
+        "K": 0,
+        "K60": 0,
+        "D": 2,
+        "race": "A"
+      },
+      "role941": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role588": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role1486": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role5810": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role3586": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role604": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "B"
+      },
+      "role2468": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role90": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "kov": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role481": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "A"
+      },
+      "role994": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role204": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role652": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role502": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "B"
+      },
+      "role8401": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role2314": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "C"
+      },
+      "role222": {
+        "K": 0,
+        "K60": 0,
+        "D": 1,
+        "race": "B"
+      }
+    }
+  }
+}
