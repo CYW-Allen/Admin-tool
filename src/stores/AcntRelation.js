@@ -45,8 +45,6 @@ export const useAcntRelationStore = defineStore('AcntRelation', () => {
   function moveCurAcnt2Start(acntList, curAcnt, svrId) {
     acntList.some(([, acntInfo], index) => {
       if (curAcnt.toLowerCase() === acntInfo.profile.GID.toLowerCase()) {
-        console.log('curAcnt', curAcnt);
-        console.log('GID', acntInfo.profile.GID);
         moveEle2Head(acntList, index);
         return true;
       }
