@@ -155,10 +155,10 @@ export const usePlayerInfosStore = defineStore('PlayerInfos', () => {
             else {
               const banInfo = curDataVal[0];
 
-              if (Number(banInfo.hours) === 999) newData.Status = 'Permanently ban';
+              if (Number(banInfo.Hour) === 999) newData.Status = 'Permanently ban';
               else {
                 const st = new Date(banInfo.StartTime);
-                const fn = new Date(st.getTime() + Number(banInfo.hours) * 60 * 60000);
+                const fn = new Date(st.getTime() + Number(banInfo.Hour) * 60 * 60000);
 
                 newData.Status = fn > Date.now()
                   ? `Unlock ${curDataVal[0].Type} after ${fn.toLocaleString('zh-Hant')}`
