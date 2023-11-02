@@ -97,7 +97,7 @@
     ],
     "roles": [
       {
-        "server_id": 1,
+        "server_id": 0,
         "role_sn": 3115,
         "Level": 75,
         "Name": "role3902",
@@ -137,7 +137,7 @@
         }
       },
       {
-        "server_id": 1,
+        "server_id": 0,
         "role_sn": 49951,
         "Level": 63,
         "Name": "role54019",
@@ -177,7 +177,7 @@
         }
       },
       {
-        "server_id": 1,
+        "server_id": 0,
         "role_sn": 51379,
         "Level": 70,
         "Name": "role53529",
@@ -218,12 +218,12 @@
       }
     ]
   },
-  "acnt2": {
+  "acnt1": {
     "profile": {
       "AccountSerial": -1,
       "UID": "",
       "MID": "",
-      "GID": "acnt2"
+      "GID": "acnt1"
     },
     "ip": [
       "36.225.181.98",
@@ -236,65 +236,78 @@
     ],
     "roles": [
       {
-        "server_id": 1,
-        "role_sn": 5488,
+        "server_id": 0,
+        "role_sn": 52367,
         "Level": 75,
-        "Name": "role2",
-        "Race": "C",
-        "Dalant": 3977367354,
-        "Gold": 53192,
-        "BAN": [],
-        "Mall": {
-          "Overview": {
-            "Spend": 2310708,
-            "Balance": 4701,
-            "Topup": 0,
-            "Bonus": 0,
-            "TotalTopup": 2184000,
-            "TotalBonus": 597600,
-            "TotalOper": 10300
+        "Name": "role1",
+        "Race": "A",
+        "Dalant": 6780803198,
+        "Gold": 33048,
+        "BAN": [
+          {
+            "StartTime": "2023-08-18 13:06:58",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "test ban"
+          },
+          {
+            "StartTime": "2023-08-17 18:16:00",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "subcomp unban"
+          },
+          {
+            "StartTime": "2023-08-17 18:00:45",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "subcomp ban"
+          },
+          {
+            "StartTime": "2023-08-17 17:56:01",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "subcomp unban"
+          },
+          {
+            "StartTime": "2023-08-17 17:53:24",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "subcomp test ban"
+          },
+          {
+            "StartTime": "2023-08-17 15:15:38",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "test unban"
+          },
+          {
+            "StartTime": "2023-08-17 15:10:33",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "test ban"
+          },
+          {
+            "StartTime": "2023-08-17 14:59:54",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "test unban"
+          },
+          {
+            "StartTime": "2023-08-17 14:58:26",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "test ban"
           }
-        }
-      },
-      {
-        "server_id": 1,
-        "role_sn": 12599,
-        "Level": 41,
-        "Name": "role3",
-        "Race": "C",
-        "Dalant": 181295525,
-        "Gold": 1216,
-        "BAN": [],
+        ],
         "Mall": {
           "Overview": {
-            "Spend": 472252,
-            "Balance": 4701,
-            "Topup": 0,
+            "Spend": 61720,
+            "Balance": 258,
+            "Topup": 13000,
             "Bonus": 0,
-            "TotalTopup": 2184000,
-            "TotalBonus": 597600,
-            "TotalOper": 10300
-          }
-        }
-      },
-      {
-        "server_id": 1,
-        "role_sn": 55984,
-        "Level": 36,
-        "Name": "role11",
-        "Race": "C",
-        "Dalant": 4064237,
-        "Gold": 179,
-        "BAN": [],
-        "Mall": {
-          "Overview": {
-            "Spend": 0,
-            "Balance": 4701,
-            "Topup": 0,
-            "Bonus": 0,
-            "TotalTopup": 2184000,
-            "TotalBonus": 597600,
-            "TotalOper": 10300
+            "TotalTopup": 257400,
+            "TotalBonus": 25500,
+            "TotalOper": 0
           }
         }
       }
@@ -313,7 +326,7 @@
     ],
     "roles": [
       {
-        "server_id": 1,
+        "server_id": 0,
         "role_sn": 5851,
         "Level": 71,
         "Name": "role6054",
@@ -347,7 +360,7 @@
         }
       },
       {
-        "server_id": 1,
+        "server_id": 0,
         "role_sn": 55844,
         "Level": 47,
         "Name": "role58111",
@@ -381,7 +394,7 @@
         }
       },
       {
-        "server_id": 1,
+        "server_id": 0,
         "role_sn": 59526,
         "Level": 47,
         "Name": "role60882",
@@ -429,7 +442,7 @@
     ],
     "roles": [
       {
-        "server_id": 1,
+        "server_id": 0,
         "role_sn": 49270,
         "Level": 75,
         "Name": "role52993",
@@ -450,7 +463,7 @@
         }
       },
       {
-        "server_id": 1,
+        "server_id": 0,
         "role_sn": 50522,
         "Level": 58,
         "Name": "role53852",
@@ -471,7 +484,7 @@
         }
       },
       {
-        "server_id": 1,
+        "server_id": 0,
         "role_sn": 51033,
         "Level": 56,
         "Name": "role54058",
@@ -505,7 +518,7 @@
     ],
     "roles": [
       {
-        "server_id": 1,
+        "server_id": 0,
         "role_sn": 51794,
         "Level": 51,
         "Name": "role51899",
@@ -526,7 +539,7 @@
         }
       },
       {
-        "server_id": 1,
+        "server_id": 0,
         "role_sn": 51816,
         "Level": 49,
         "Name": "role53006",
@@ -547,7 +560,7 @@
         }
       },
       {
-        "server_id": 1,
+        "server_id": 0,
         "role_sn": 58708,
         "Level": 51,
         "Name": "role61988",
