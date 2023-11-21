@@ -1,0 +1,234 @@
+[
+  {
+    "UID": [
+      {
+        "AccountSerial": -1,
+        "UID": "",
+        "MID": "",
+        "GID": "acnt18"
+      }
+    ],
+    "Level": 70,
+    "AccountSerial": 19606,
+    "Name": "role532069",
+    "Race": "B",
+    "Serial": 58589,
+    "Dalant": 807462656,
+    "Gold": 7513,
+    "StoreAsset": {
+      "Dalant-C": 226287895,
+      "Gold-C": 10000
+    },
+    "CreateTime": "2023-10-26 08:34:58",
+    "LastLogin": "2023-10-31 12:08:00",
+    "TotalPlayMins": 59934,
+    "WeekVoteMins": 5389,
+    "WeekHistMins": 5139,
+    "Guild": "G33",
+    "LoginLock": {
+      "Password": "password\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "StoreLock": {
+      "Password": "password\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "Question": "Q1",
+      "Answer": "password"
+    },
+    "BAN": [],
+    "PVP": {
+      "KillTimes": 0,
+      "MurderedTimes": 0
+    },
+    "LoginHistory": [
+      {
+        "Period": 121,
+        "LoginTime": "2023-10-26 21:10:00",
+        "LogoutTime": "2023-10-26 23:10:55",
+        "Level": 70,
+        "IP": "36.225.155.192"
+      },
+      {
+        "Period": 2,
+        "LoginTime": "2023-10-26 23:16:00",
+        "LogoutTime": "2023-10-26 23:17:38",
+        "Level": 70,
+        "IP": "36.225.155.192"
+      },
+      {
+        "Period": 678,
+        "LoginTime": "2023-10-26 23:21:00",
+        "LogoutTime": "2023-10-27 10:39:07",
+        "Level": 70,
+        "IP": "36.225.155.192"
+      },
+      {
+        "Period": 18,
+        "LoginTime": "2023-10-27 16:10:00",
+        "LogoutTime": "2023-10-27 16:27:48",
+        "Level": 70,
+        "IP": "36.225.155.192"
+      },
+      {
+        "Period": 16,
+        "LoginTime": "2023-10-27 16:34:00",
+        "LogoutTime": "2023-10-27 16:50:09",
+        "Level": 70,
+        "IP": "36.225.155.192"
+      },
+      {
+        "Period": 82,
+        "LoginTime": "2023-10-27 17:06:00",
+        "LogoutTime": "2023-10-27 18:28:19",
+        "Level": 70,
+        "IP": "36.225.155.192"
+      },
+      {
+        "Period": 29,
+        "LoginTime": "2023-10-27 18:29:00",
+        "LogoutTime": "2023-10-27 18:57:38",
+        "Level": 70,
+        "IP": "36.225.155.192"
+      },
+      {
+        "Period": 627,
+        "LoginTime": "2023-10-27 19:01:00",
+        "LogoutTime": "2023-10-28 05:28:22",
+        "Level": 70,
+        "IP": "36.225.155.192"
+      },
+      {
+        "Period": 815,
+        "LoginTime": "2023-10-28 07:44:00",
+        "LogoutTime": "2023-10-28 21:18:35",
+        "Level": 70,
+        "IP": "36.225.169.11"
+      },
+      {
+        "Period": 621,
+        "LoginTime": "2023-10-28 21:38:00",
+        "LogoutTime": "2023-10-29 07:58:59",
+        "Level": 70,
+        "IP": "36.225.169.11"
+      },
+      {
+        "Period": 533,
+        "LoginTime": "2023-10-29 08:09:00",
+        "LogoutTime": "2023-10-29 17:01:36",
+        "Level": 70,
+        "IP": "36.225.169.11"
+      },
+      {
+        "Period": 83,
+        "LoginTime": "2023-10-29 17:02:00",
+        "LogoutTime": "2023-10-29 18:25:14",
+        "Level": 70,
+        "IP": "36.225.169.11"
+      },
+      {
+        "Period": 21,
+        "LoginTime": "2023-10-29 20:56:00",
+        "LogoutTime": "2023-10-29 21:16:44",
+        "Level": 70,
+        "IP": "36.225.169.11"
+      },
+      {
+        "Period": 4,
+        "LoginTime": "2023-10-29 21:19:00",
+        "LogoutTime": "2023-10-29 21:23:15",
+        "Level": 70,
+        "IP": "36.225.169.11"
+      },
+      {
+        "Period": 1469,
+        "LoginTime": "2023-10-29 21:27:00",
+        "LogoutTime": "2023-10-30 21:56:11",
+        "Level": 70,
+        "IP": "36.225.169.11"
+      },
+      {
+        "Period": 43,
+        "LoginTime": "2023-10-30 21:58:00",
+        "LogoutTime": "2023-10-30 22:40:39",
+        "Level": 70,
+        "IP": "36.225.169.11"
+      },
+      {
+        "Period": 417,
+        "LoginTime": "2023-10-30 22:42:00",
+        "LogoutTime": "2023-10-31 05:38:52",
+        "Level": 70,
+        "IP": "36.225.169.11"
+      },
+      {
+        "Period": 2767,
+        "LoginTime": "2023-10-31 07:57:00",
+        "LogoutTime": "2023-10-31 09:34:27",
+        "Level": 70,
+        "IP": "36.225.170.161"
+      },
+      {
+        "Period": 232,
+        "LoginTime": "2023-10-31 12:08:00",
+        "LogoutTime": "2023-10-31 14:00:25",
+        "Level": 70,
+        "IP": "36.225.170.161"
+      }
+    ],
+    "Mall": {
+      "Overview": {
+        "Spend": 248958,
+        "Balance": 8055,
+        "Topup": 55500,
+        "Bonus": 40500,
+        "TotalTopup": 116600,
+        "TotalBonus": 140500,
+        "TotalOper": 0
+      },
+      "RankingAmount": {
+        "bxevm13": 406,
+        "bxevm14": 383,
+        "Item253": 66,
+        "Item107": 55,
+        "bxfev11": 47,
+        "Translation": 43,
+        "Item595": 9,
+        "bxfev14": 6,
+        "Item236": 6,
+        "Item67": 3,
+        "Item57": 3,
+        "Item741": 2,
+        "Item30": 2,
+        "Item130": 2,
+        "Item175": 1,
+        "Item145": 1,
+        "Item61": 1,
+        "Item66": 1,
+        "Item75": 1
+      },
+      "RankingPrice": [
+        {
+          "bxevm13": 109620,
+          "bxevm14": 68940,
+          "bxfev11": 50760,
+          "Item595": 6840,
+          "Translation": 5780,
+          "bxfev14": 1590,
+          "Item130": 1300,
+          "Item30": 1000,
+          "Item253": 924,
+          "Item741": 600,
+          "Item107": 440,
+          "Item75": 360,
+          "Item57": 240,
+          "Item175": 200,
+          "Item66": 180,
+          "Item236": 84,
+          "Item61": 44,
+          "Item67": 36,
+          "Item145": 20
+        }
+      ]
+    }
+  }
+]

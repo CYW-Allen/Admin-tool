@@ -1,0 +1,1875 @@
+{
+  "acnt18": {
+    "profile": {
+      "AccountSerial": -1,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt18"
+    },
+    "ip": [
+      "1.165.23.119",
+      "1.165.4.82",
+      "111.240.126.236",
+      "111.253.2.94",
+      "111.253.29.232",
+      "36.225.162.25",
+      "36.230.152.104",
+      "36.230.175.176",
+      "36.230.182.88",
+      "61.224.111.201"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 532069,
+        "Level": 49,
+        "Name": "role532069",
+        "Race": "B",
+        "Dalant": 194563,
+        "Gold": 1480,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 1258,
+            "Topup": 6300,
+            "Bonus": 5100,
+            "TotalTopup": 15000,
+            "TotalBonus": 8500,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt92": {
+    "profile": {
+      "AccountSerial": -1,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt92"
+    },
+    "ip": [
+      "114.42.232.226",
+      "122.118.139.206",
+      "122.118.141.180",
+      "125.230.79.197",
+      "125.230.88.105",
+      "36.225.157.69"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 62315,
+        "Level": 30,
+        "Name": "role153",
+        "Race": "A",
+        "Dalant": 2569743,
+        "Gold": 118,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 3514,
+            "Balance": 195,
+            "Topup": 15000,
+            "Bonus": 20000,
+            "TotalTopup": 58000,
+            "TotalBonus": 72000,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 62315,
+        "Level": 70,
+        "Name": "role277",
+        "Race": "A",
+        "Dalant": 983479522,
+        "Gold": 35152,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 25845,
+            "Balance": 195,
+            "Topup": 15000,
+            "Bonus": 20000,
+            "TotalTopup": 58000,
+            "TotalBonus": 72000,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 62315,
+        "Level": 10,
+        "Name": "role386",
+        "Race": "C",
+        "Dalant": 15200,
+        "Gold": 10,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 195,
+            "Topup": 15000,
+            "Bonus": 20000,
+            "TotalTopup": 58000,
+            "TotalBonus": 72000,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 62315,
+        "Level": 30,
+        "Name": "role118",
+        "Race": "A",
+        "Dalant": 453687214,
+        "Gold": 23150,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 18325,
+            "Balance": 195,
+            "Topup": 15000,
+            "Bonus": 20000,
+            "TotalTopup": 58000,
+            "TotalBonus": 72000,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt458": {
+    "profile": {
+      "AccountSerial": 3896,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt458"
+    },
+    "ip": [
+      "111.240.120.249",
+      "125.230.88.105"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 4882,
+        "Level": 75,
+        "Name": "role1358",
+        "Race": "C",
+        "Dalant": 363262065,
+        "Gold": 14267,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 85357,
+            "Balance": 0,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 72500,
+            "TotalBonus": 34000,
+            "TotalOper": 2202
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 25037,
+        "Level": 1,
+        "Name": "role1360",
+        "Race": "C",
+        "Dalant": 13658,
+        "Gold": 66,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 21345,
+            "Balance": 0,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 72500,
+            "TotalBonus": 34000,
+            "TotalOper": 2202
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 26709,
+        "Level": 40,
+        "Name": "role1307",
+        "Race": "C",
+        "Dalant": 8148142,
+        "Gold": 4438,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 2000,
+            "Balance": 0,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 72500,
+            "TotalBonus": 34000,
+            "TotalOper": 2202
+          }
+        }
+      }
+    ]
+  },
+  "acnt935": {
+    "profile": {
+      "AccountSerial": 17212,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt935"
+    },
+    "ip": [
+      "111.240.120.249",
+      "111.240.126.236",
+      "*111.240.117.189"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 47224,
+        "Level": 1,
+        "Name": "role15953",
+        "Race": "C",
+        "Dalant": 2400125,
+        "Gold": 8893,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 0,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 0,
+            "TotalBonus": 0,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 47226,
+        "Level": 1,
+        "Name": "role18645",
+        "Race": "C",
+        "Dalant": 125,
+        "Gold": 6389,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 0,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 0,
+            "TotalBonus": 0,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 47227,
+        "Level": 1,
+        "Name": "role17569",
+        "Race": "C",
+        "Dalant": 304,
+        "Gold": 10273,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 0,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 0,
+            "TotalBonus": 0,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt368": {
+    "profile": {
+      "AccountSerial": 401,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt368"
+    },
+    "ip": [
+      "111.240.120.249",
+      "114.42.198.209",
+      "114.42.207.2",
+      "114.42.232.226",
+      "*114.42.231.130"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 335,
+        "Level": 75,
+        "Name": "role388",
+        "Race": "C",
+        "Dalant": 198684083,
+        "Gold": 45864,
+        "BAN": [
+          {
+            "StartTime": "2022-12-25 13:11:14",
+            "Hour": 24,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-12-25 13:11:09",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-12-25 13:04:43",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "*"
+          }
+        ],
+        "Mall": {
+          "Overview": {
+            "Spend": 170240,
+            "Balance": 5023,
+            "Topup": 0,
+            "Bonus": 5000,
+            "TotalTopup": 88000,
+            "TotalBonus": 87950,
+            "TotalOper": 1000
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 56175,
+        "Level": 52,
+        "Name": "role439",
+        "Race": "C",
+        "Dalant": 178682243,
+        "Gold": 4632,
+        "BAN": [
+          {
+            "StartTime": "2022-12-25 13:11:14",
+            "Hour": 24,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-12-25 13:11:09",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-12-25 13:04:43",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "*"
+          }
+        ],
+        "Mall": {
+          "Overview": {
+            "Spend": 913,
+            "Balance": 5023,
+            "Topup": 0,
+            "Bonus": 5000,
+            "TotalTopup": 88000,
+            "TotalBonus": 87950,
+            "TotalOper": 1000
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 56812,
+        "Level": 1,
+        "Name": "role395",
+        "Race": "A",
+        "Dalant": 107456,
+        "Gold": 0,
+        "BAN": [
+          {
+            "StartTime": "2022-12-25 13:11:14",
+            "Hour": 24,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-12-25 13:11:09",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-12-25 13:04:43",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "*"
+          }
+        ],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 5023,
+            "Topup": 0,
+            "Bonus": 5000,
+            "TotalTopup": 88000,
+            "TotalBonus": 87950,
+            "TotalOper": 1000
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 6572,
+        "Level": 1,
+        "Name": "role379",
+        "Race": "C",
+        "Dalant": 0,
+        "Gold": 0,
+        "BAN": [
+          {
+            "StartTime": "2022-12-25 13:11:14",
+            "Hour": 24,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-12-25 13:11:09",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-12-25 13:04:43",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "*"
+          }
+        ],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 5023,
+            "Topup": 0,
+            "Bonus": 5000,
+            "TotalTopup": 88000,
+            "TotalBonus": 87950,
+            "TotalOper": 1000
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 6573,
+        "Level": 1,
+        "Name": "role406",
+        "Race": "A",
+        "Dalant": 0,
+        "Gold": 0,
+        "BAN": [
+          {
+            "StartTime": "2022-12-25 13:11:14",
+            "Hour": 24,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-12-25 13:11:09",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-12-25 13:04:43",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "*"
+          }
+        ],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 5023,
+            "Topup": 0,
+            "Bonus": 5000,
+            "TotalTopup": 88000,
+            "TotalBonus": 87950,
+            "TotalOper": 1000
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 6591,
+        "Level": 5,
+        "Name": "role409",
+        "Race": "B",
+        "Dalant": 46,
+        "Gold": 0,
+        "BAN": [
+          {
+            "StartTime": "2022-12-25 13:11:14",
+            "Hour": 24,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-12-25 13:11:09",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-12-25 13:04:43",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "*"
+          }
+        ],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 5023,
+            "Topup": 0,
+            "Bonus": 5000,
+            "TotalTopup": 88000,
+            "TotalBonus": 87950,
+            "TotalOper": 1000
+          }
+        }
+      }
+    ]
+  },
+  "acnt174": {
+    "profile": {
+      "AccountSerial": 135,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt174"
+    },
+    "ip": [
+      "111.240.120.249",
+      "111.240.126.236",
+      "*111.240.117.189"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 120,
+        "Level": 75,
+        "Name": "role132",
+        "Race": "C",
+        "Dalant": 589041172,
+        "Gold": 15263,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 246418,
+            "Balance": 71,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 194500,
+            "TotalBonus": 88900,
+            "TotalOper": 2400
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 23902,
+        "Level": 1,
+        "Name": "role1052",
+        "Race": "C",
+        "Dalant": 340555735,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 71,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 194500,
+            "TotalBonus": 88900,
+            "TotalOper": 2400
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 51263,
+        "Level": 1,
+        "Name": "role3648",
+        "Race": "C",
+        "Dalant": 792807,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 71,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 194500,
+            "TotalBonus": 88900,
+            "TotalOper": 2400
+          }
+        }
+      }
+    ]
+  },
+  "acnt6328": {
+    "profile": {
+      "AccountSerial": 5938,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt6328"
+    },
+    "ip": [
+      "111.240.120.249"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 9025,
+        "Level": 75,
+        "Name": "role10513",
+        "Race": "C",
+        "Dalant": 32183883,
+        "Gold": 28238,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 384,
+            "Balance": 639,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 6000,
+            "TotalBonus": 14400,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 20752,
+        "Level": 1,
+        "Name": "role24597",
+        "Race": "C",
+        "Dalant": 19014500,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 639,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 6000,
+            "TotalBonus": 14400,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt51": {
+    "profile": {
+      "AccountSerial": 40,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt51"
+    },
+    "ip": [
+      "111.240.120.249",
+      "111.240.126.236",
+      "125.230.79.197",
+      "*111.240.117.189",
+      "*111.240.97.209"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 178,
+        "Level": 75,
+        "Name": "role202",
+        "Race": "C",
+        "Dalant": 1918734575,
+        "Gold": 34585,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 209711,
+            "Balance": 61,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 91000,
+            "TotalBonus": 128600,
+            "TotalOper": 3000
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 51757,
+        "Level": 55,
+        "Name": "role62845",
+        "Race": "C",
+        "Dalant": 88602524,
+        "Gold": 3663,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 1237,
+            "Balance": 61,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 91000,
+            "TotalBonus": 128600,
+            "TotalOper": 3000
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 56830,
+        "Level": 26,
+        "Name": "role66241",
+        "Race": "C",
+        "Dalant": 0,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 61,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 91000,
+            "TotalBonus": 128600,
+            "TotalOper": 3000
+          }
+        }
+      }
+    ]
+  },
+  "acnt6102": {
+    "profile": {
+      "AccountSerial": 5631,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt6102"
+    },
+    "ip": [
+      "111.240.120.249",
+      "111.240.126.236",
+      "*111.240.117.189"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 8371,
+        "Level": 75,
+        "Name": "role9514",
+        "Race": "C",
+        "Dalant": 236805840,
+        "Gold": 110828,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 35794,
+            "Balance": 6,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 20000,
+            "TotalBonus": 16300,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 19322,
+        "Level": 1,
+        "Name": "role21064",
+        "Race": "C",
+        "Dalant": 55343993,
+        "Gold": 19873,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 500,
+            "Balance": 6,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 20000,
+            "TotalBonus": 16300,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 20674,
+        "Level": 1,
+        "Name": "role23516",
+        "Race": "C",
+        "Dalant": 146276257,
+        "Gold": 8481,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 6,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 20000,
+            "TotalBonus": 16300,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt22003": {
+    "profile": {
+      "AccountSerial": 20699,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt22003"
+    },
+    "ip": [
+      "111.240.126.236",
+      "*111.240.117.189"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 56892,
+        "Level": 1,
+        "Name": "role60986",
+        "Race": "C",
+        "Dalant": 125,
+        "Gold": 490,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 0,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 0,
+            "TotalBonus": 0,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 56893,
+        "Level": 1,
+        "Name": "role60991",
+        "Race": "C",
+        "Dalant": 125,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 0,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 0,
+            "TotalBonus": 0,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 56894,
+        "Level": 1,
+        "Name": "role60995",
+        "Race": "C",
+        "Dalant": 125,
+        "Gold": 500,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 0,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 0,
+            "TotalBonus": 0,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt10546": {
+    "profile": {
+      "AccountSerial": 9799,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt10546"
+    },
+    "ip": [
+      "111.240.126.236",
+      "*111.240.117.189"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 19730,
+        "Level": 70,
+        "Name": "role21118",
+        "Race": "A",
+        "Dalant": 503153150,
+        "Gold": 4739,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 17207,
+            "Balance": 1,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 22500,
+            "TotalBonus": 71000,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 23726,
+        "Level": 46,
+        "Name": "role25441",
+        "Race": "A",
+        "Dalant": 5100015,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 410,
+            "Balance": 1,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 22500,
+            "TotalBonus": 71000,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 48275,
+        "Level": 1,
+        "Name": "role53846",
+        "Race": "A",
+        "Dalant": 9116352,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 28200,
+            "Balance": 1,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 22500,
+            "TotalBonus": 71000,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt3998": {
+    "profile": {
+      "AccountSerial": 3759,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt3998"
+    },
+    "ip": [
+      "114.25.73.233",
+      "36.230.152.104",
+      "36.230.175.176",
+      "36.230.182.88",
+      "*36.225.168.148",
+      "*36.225.190.155"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 4675,
+        "Level": 20,
+        "Name": "role4804",
+        "Race": "C",
+        "Dalant": 199321,
+        "Gold": 0,
+        "BAN": [
+          {
+            "StartTime": "2022-06-21 09:15:23",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-06-20 19:49:02",
+            "Hour": 24,
+            "Type": "account",
+            "Reason": "*"
+          }
+        ],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 15,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 850,
+            "TotalBonus": 0,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 38661,
+        "Level": 69,
+        "Name": "role42006",
+        "Race": "C",
+        "Dalant": 66759932,
+        "Gold": 5645,
+        "BAN": [
+          {
+            "StartTime": "2022-06-21 09:15:23",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-06-20 19:49:02",
+            "Hour": 24,
+            "Type": "account",
+            "Reason": "*"
+          }
+        ],
+        "Mall": {
+          "Overview": {
+            "Spend": 835,
+            "Balance": 15,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 850,
+            "TotalBonus": 0,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 55689,
+        "Level": 1,
+        "Name": "role59302",
+        "Race": "B",
+        "Dalant": 368,
+        "Gold": 0,
+        "BAN": [
+          {
+            "StartTime": "2022-06-21 09:15:23",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-06-20 19:49:02",
+            "Hour": 24,
+            "Type": "account",
+            "Reason": "*"
+          }
+        ],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 15,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 850,
+            "TotalBonus": 0,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt6335": {
+    "profile": {
+      "AccountSerial": 6081,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt6335"
+    },
+    "ip": [
+      "114.25.73.233",
+      "36.230.182.88",
+      "*112.105.64.193",
+      "*175.180.101.135"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 21588,
+        "Level": 75,
+        "Name": "role22995",
+        "Race": "C",
+        "Dalant": 1259575890,
+        "Gold": 974358,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 6510,
+            "Balance": 2638,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 64650,
+            "TotalBonus": 12750,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 40612,
+        "Level": 70,
+        "Name": "role43552",
+        "Race": "C",
+        "Dalant": 30817577,
+        "Gold": 4391,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 2157,
+            "Balance": 2638,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 64650,
+            "TotalBonus": 12750,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 52908,
+        "Level": 70,
+        "Name": "role54008",
+        "Race": "C",
+        "Dalant": 755206546,
+        "Gold": 9055,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 2638,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 64650,
+            "TotalBonus": 12750,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 2452,
+        "Level": 1,
+        "Name": "role2633",
+        "Race": "A",
+        "Dalant": 0,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 2638,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 64650,
+            "TotalBonus": 12750,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 2453,
+        "Level": 1,
+        "Name": "role2639",
+        "Race": "B",
+        "Dalant": 0,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 2638,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 64650,
+            "TotalBonus": 12750,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt1214": {
+    "profile": {
+      "AccountSerial": 1102,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt1214"
+    },
+    "ip": [
+      "114.25.73.233",
+      "36.225.157.69",
+      "36.230.152.104",
+      "36.230.175.176",
+      "36.230.182.88",
+      "*114.25.71.82"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 1232,
+        "Level": 55,
+        "Name": "role1341",
+        "Race": "C",
+        "Dalant": 13893242,
+        "Gold": 1009,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 3000,
+            "Balance": 55,
+            "Topup": 30,
+            "Bonus": 250,
+            "TotalTopup": 3800,
+            "TotalBonus": 6850,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 20056,
+        "Level": 54,
+        "Name": "role21312",
+        "Race": "C",
+        "Dalant": 21310045,
+        "Gold": 779,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 55,
+            "Topup": 30,
+            "Bonus": 250,
+            "TotalTopup": 3800,
+            "TotalBonus": 6850,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 20337,
+        "Level": 71,
+        "Name": "role21399",
+        "Race": "C",
+        "Dalant": 299999216,
+        "Gold": 19650,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 7595,
+            "Balance": 55,
+            "Topup": 30,
+            "Bonus": 250,
+            "TotalTopup": 3800,
+            "TotalBonus": 6850,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt13231": {
+    "profile": {
+      "AccountSerial": 12929,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt13231"
+    },
+    "ip": [
+      "114.25.73.233",
+      "36.230.152.104",
+      "36.230.175.176",
+      "36.230.182.88",
+      "*114.25.71.82"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 28863,
+        "Level": 75,
+        "Name": "role30044",
+        "Race": "C",
+        "Dalant": 1034943417,
+        "Gold": 98786,
+        "BAN": [
+          {
+            "StartTime": "2022-10-20 14:09:02",
+            "Hour": 72,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-20 14:08:51",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-20 13:54:58",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-11 13:15:47",
+            "Hour": 24,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-11 13:15:41",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-11 13:09:01",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "*"
+          }
+        ],
+        "Mall": {
+          "Overview": {
+            "Spend": 15330,
+            "Balance": 70,
+            "Topup": 30,
+            "Bonus": 250,
+            "TotalTopup": 15120,
+            "TotalBonus": 750,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 30975,
+        "Level": 55,
+        "Name": "role31658",
+        "Race": "C",
+        "Dalant": 54785170,
+        "Gold": 9743,
+        "BAN": [
+          {
+            "StartTime": "2022-10-20 14:09:02",
+            "Hour": 72,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-20 14:08:51",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-20 13:54:58",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-11 13:15:47",
+            "Hour": 24,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-11 13:15:41",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-11 13:09:01",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "*"
+          }
+        ],
+        "Mall": {
+          "Overview": {
+            "Spend": 200,
+            "Balance": 70,
+            "Topup": 30,
+            "Bonus": 250,
+            "TotalTopup": 15120,
+            "TotalBonus": 750,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 40421,
+        "Level": 48,
+        "Name": "role42889",
+        "Race": "C",
+        "Dalant": 16561339,
+        "Gold": 3776,
+        "BAN": [
+          {
+            "StartTime": "2022-10-20 14:09:02",
+            "Hour": 72,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-20 14:08:51",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-20 13:54:58",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-11 13:15:47",
+            "Hour": 24,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-11 13:15:41",
+            "Hour": 0,
+            "Type": "account",
+            "Reason": "*"
+          },
+          {
+            "StartTime": "2022-10-11 13:09:01",
+            "Hour": 999,
+            "Type": "account",
+            "Reason": "*"
+          }
+        ],
+        "Mall": {
+          "Overview": {
+            "Spend": 270,
+            "Balance": 70,
+            "Topup": 30,
+            "Bonus": 250,
+            "TotalTopup": 15120,
+            "TotalBonus": 750,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt2467": {
+    "profile": {
+      "AccountSerial": 2289,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt2467"
+    },
+    "ip": [
+      "114.25.73.233",
+      "36.225.157.69",
+      "*36.225.160.3",
+      "*36.225.173.78",
+      "*36.225.190.155"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 2646,
+        "Level": 75,
+        "Name": "role2779",
+        "Race": "C",
+        "Dalant": 3537856578,
+        "Gold": 34237,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 63958,
+            "Balance": 15,
+            "Topup": 30,
+            "Bonus": 500,
+            "TotalTopup": 61630,
+            "TotalBonus": 53300,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 25373,
+        "Level": 1,
+        "Name": "role26851",
+        "Race": "C",
+        "Dalant": 541546,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 15,
+            "Topup": 30,
+            "Bonus": 500,
+            "TotalTopup": 61630,
+            "TotalBonus": 53300,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 55151,
+        "Level": 1,
+        "Name": "role56977",
+        "Race": "C",
+        "Dalant": 193573,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 1325,
+            "Balance": 15,
+            "Topup": 30,
+            "Bonus": 500,
+            "TotalTopup": 61630,
+            "TotalBonus": 53300,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt1455": {
+    "profile": {
+      "AccountSerial": 1309,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt1455"
+    },
+    "ip": [
+      "114.25.73.233",
+      "36.230.152.104",
+      "36.230.175.176",
+      "36.230.182.88",
+      "*114.25.71.82",
+      "*36.225.151.135",
+      "*36.225.160.3",
+      "*36.225.183.243"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 1628,
+        "Level": 75,
+        "Name": "role1735",
+        "Race": "C",
+        "Dalant": 10562097383,
+        "Gold": 70088,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 47614,
+            "Balance": 35,
+            "Topup": 30,
+            "Bonus": 500,
+            "TotalTopup": 1740,
+            "TotalBonus": 57500,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 4000,
+        "Level": 51,
+        "Name": "role4033",
+        "Race": "C",
+        "Dalant": 5744864,
+        "Gold": 118,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 35,
+            "Topup": 30,
+            "Bonus": 500,
+            "TotalTopup": 1740,
+            "TotalBonus": 57500,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 56335,
+        "Level": 1,
+        "Name": "role59431",
+        "Race": "B",
+        "Dalant": 552427886,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 35,
+            "Topup": 30,
+            "Bonus": 500,
+            "TotalTopup": 1740,
+            "TotalBonus": 57500,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt4": {
+    "profile": {
+      "AccountSerial": -1,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt4"
+    },
+    "ip": [
+      "36.225.170.161"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 67521,
+        "Level": 75,
+        "Name": "role68594",
+        "Race": "C",
+        "Dalant": 365128945,
+        "Gold": 1221,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 37420,
+            "Balance": 128,
+            "Topup": 3000,
+            "Bonus": 0,
+            "TotalTopup": 118200,
+            "TotalBonus": 8400,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt9129": {
+    "profile": {
+      "AccountSerial": 8553,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt9129"
+    },
+    "ip": [
+      "114.25.73.233",
+      "36.230.152.104",
+      "36.230.175.176",
+      "36.230.182.88",
+      "*36.225.151.135",
+      "*36.225.160.3",
+      "*36.225.173.78"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 16332,
+        "Level": 55,
+        "Name": "role18453",
+        "Race": "C",
+        "Dalant": 14638454,
+        "Gold": 114036,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 10195,
+            "Balance": 5,
+            "Topup": 30,
+            "Bonus": 250,
+            "TotalTopup": 3700,
+            "TotalBonus": 6500,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 49843,
+        "Level": 12,
+        "Name": "role54500",
+        "Race": "C",
+        "Dalant": 476855,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 5,
+            "Topup": 30,
+            "Bonus": 250,
+            "TotalTopup": 3700,
+            "TotalBonus": 6500,
+            "TotalOper": 0
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 51758,
+        "Level": 1,
+        "Name": "role56111",
+        "Race": "C",
+        "Dalant": 907112,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 5,
+            "Topup": 30,
+            "Bonus": 250,
+            "TotalTopup": 3700,
+            "TotalBonus": 6500,
+            "TotalOper": 0
+          }
+        }
+      }
+    ]
+  },
+  "acnt62": {
+    "profile": {
+      "AccountSerial": 47,
+      "UID": "",
+      "MID": "",
+      "GID": "acnt62"
+    },
+    "ip": [
+      "114.42.198.209",
+      "114.42.232.226",
+      "*114.44.142.16",
+      "*114.44.161.78"
+    ],
+    "roles": [
+      {
+        "server_id": 0,
+        "role_sn": 66,
+        "Level": 75,
+        "Name": "role70",
+        "Race": "C",
+        "Dalant": 9584924,
+        "Gold": 3895,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 13230,
+            "Balance": 1287,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 3130,
+            "TotalBonus": 42300,
+            "TotalOper": 300
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 52370,
+        "Level": 61,
+        "Name": "role52999",
+        "Race": "B",
+        "Dalant": 272462304,
+        "Gold": 30756,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 1287,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 3130,
+            "TotalBonus": 42300,
+            "TotalOper": 300
+          }
+        }
+      },
+      {
+        "server_id": 0,
+        "role_sn": 637,
+        "Level": 1,
+        "Name": "role701",
+        "Race": "A",
+        "Dalant": 0,
+        "Gold": 0,
+        "BAN": [],
+        "Mall": {
+          "Overview": {
+            "Spend": 0,
+            "Balance": 1287,
+            "Topup": 0,
+            "Bonus": 0,
+            "TotalTopup": 3130,
+            "TotalBonus": 42300,
+            "TotalOper": 300
+          }
+        }
+      }
+    ]
+  }
+}

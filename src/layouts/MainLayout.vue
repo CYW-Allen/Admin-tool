@@ -18,15 +18,15 @@
           <component :is="functionComps[operPanel.curFunc]"></component>
         </KeepAlive>
       </q-page>
-
-      <q-inner-loading :showing="operPanel.preparing">
-        <div class="text-green-8 text-h4 q-mb-md">Processing...</div>
-        <q-spinner-gears size="10em" color="green-8" />
-      </q-inner-loading>
-
-      <ChartTable />
-      <BanUnbanDlg />
     </q-page-container>
+
+    <q-inner-loading :showing="operPanel.preparing">
+      <div class="text-green-8 text-h4 q-mb-md">Processing...</div>
+      <q-spinner-gears size="10em" color="green-8" />
+    </q-inner-loading>
+
+    <ChartTable />
+    <BanUnbanDlg />
   </q-layout>
 </template>
 

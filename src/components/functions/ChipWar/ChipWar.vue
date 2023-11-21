@@ -8,15 +8,15 @@
         </template>
       </q-select>
 
-      <q-tabs v-model="curPeriod" class="customTabs text-grey bg-light-blue-2 shadow-2 glossy"
-        active-class="text-white bg-blue-6 glossy" indicator-color="transparent" align="justify" dense>
-        <q-tab v-for="(p, i) in periods" :key="`tab-${i}`" :name="p" :label="p"></q-tab>
+      <q-tabs v-model="curPeriod" class="customTabs text-grey bg-light-blue-2 shadow-2 glossy "
+        active-class="text-white bg-blue-6 glossy" indicator-color="transparent" align="justify" dense fixed>
+        <q-tab content-class="col" v-for="(p, i) in periods" :key="`tab-${i}`" :name="p" :label="p"></q-tab>
       </q-tabs>
 
       <div class="row wrap">
         <div class="col bg-blue-2 compMinWidth">
           <div class="row no-wrap justify-center items-center q-pa-sm">
-            <div class="text-h6 text-indigo-10 text-bold q-mx-md">Number of participants</div>
+            <div class="text-h6 text-indigo-10 text-bold q-mx-md">Participant amount</div>
             <div>
               <span v-for="([race, counts], pi) in curPeriodParticipants" :key="`participants-${pi}`"
                 :class="`text-h6 text-bold q-mr-md`" :style="`color: ${appConfigs.racesColor[race]}`">
@@ -333,3 +333,9 @@ watch(() => playerInfos.cacheDeletedAlert, (v) => {
   }
 });
 </script>
+
+<style>
+.customTabs .q-tab {
+  flex: 1;
+}
+</style>

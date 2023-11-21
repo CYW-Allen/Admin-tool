@@ -82,12 +82,12 @@ export const useChipWarStore = defineStore('ChipWar', () => {
         yaxis: [{
           serialName: 'damage',
           title: { text: 'Damage', style: { fontSize: '16px', color: seriesColor[0] } },
-          labels: { formatter: (val) => new Intl.NumberFormat('zh-Hant', { notation: 'compact' }).format(val) },
+          labels: { formatter: (val) => new Intl.NumberFormat('en-us', { notation: 'compact' }).format(val) },
         }, {
           serialName: 'dph',
           opposite: true,
           title: { text: 'DPH', style: { fontSize: '16px', color: seriesColor[1] } },
-          labels: { formatter: (val) => new Intl.NumberFormat('zh-Hant', { notation: 'compact' }).format(val) },
+          labels: { formatter: (val) => new Intl.NumberFormat('en-us', { notation: 'compact' }).format(val) },
         }],
         colors: seriesColor,
         isDistributed: false,

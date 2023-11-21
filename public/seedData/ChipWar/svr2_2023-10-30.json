@@ -26,7 +26,7 @@
         "race": "C"
       },
       {
-        "role": "role1",
+        "role": "role68594",
         "dmg": 17078561,
         "counter": 169,
         "race": "C"
@@ -328,7 +328,7 @@
         "race": "C"
       },
       {
-        "role": "role1",
+        "role": "role68594",
         "dmg": 6302725,
         "counter": 53,
         "race": "C"
@@ -961,7 +961,7 @@
         "race": "C"
       },
       {
-        "role": "role1",
+        "role": "role68594",
         "dmg": 16528825,
         "counter": 124,
         "race": "C"
@@ -1650,7 +1650,7 @@
         "D": 5,
         "race": "A"
       },
-      "role1": {
+      "role68594": {
         "K": 7,
         "K60": 7,
         "D": 1,
@@ -1902,7 +1902,7 @@
         "D": 0,
         "race": "A"
       },
-      "role3376": {
+      "role3": {
         "K": 1,
         "K60": 1,
         "D": 0,

@@ -1,10 +1,10 @@
 <template>
-  <q-dialog v-model="appConfigs.showSettingDlg" persistent @hide="rollbackOriginalConfig">
+  <q-dialog v-model="appConfigs.showSettingDlg" persistent>
     <q-card style="width: 900px;max-width: 100vw;">
       <q-card-section class="row items-center q-pb-none">
         <div class="text-h5 text-bold">APP configs</div>
         <q-space />
-        <q-icon name="fa-solid fa-xmark" size="md" class="cursor-pointer" v-close-popup />
+        <q-icon name="fa-solid fa-xmark" size="md" class="cursor-pointer" v-close-popup @click="rollbackOriginalConfig" />
       </q-card-section>
 
       <q-separator spaced inset />
@@ -134,7 +134,7 @@
 </template>
 
 <script setup>
-import { ref } from 'vue';
+import { ref, watch } from 'vue';
 import { useQuasar } from 'quasar';
 import { useAppConfigsStore } from 'src/stores/AppConfigs';
 
@@ -159,17 +159,19 @@ const pattern = new RegExp(
   + '(\\#[-a-z\\d_]*)?$',
   'i',
 );
-const examURL = (url) => pattern.test(url);
+const examURL = (url) => appConfigs.appMode === 'dev' || pattern.test(url);
 
 function rollbackOriginalConfig() {
+  console.log('rollback config');
   curAppConfigs.value = {
-    servers: [...appConfigs.servers],
-    serversColor: [...appConfigs.serversColor],
-    races: [...appConfigs.races],
+    servers: appConfigs.servers.slice(),
+    serversColor: appConfigs.serversColor.slice(),
+    races: appConfigs.races.slice(),
     racesColor: Object.values(appConfigs.racesColor),
     gameApiUrl: appConfigs.gameApiUrl,
     acntApiUrl: appConfigs.acntApiUrl,
   };
+  console.log(curAppConfigs.value.serversColor);
 }
 
 function editConfigs(action, obj, index) {
@@ -182,29 +184,22 @@ function editConfigs(action, obj, index) {
   }
 }
 
-function syncModifiedConfigs() {
-  appConfigs.servers = [...curAppConfigs.value.servers];
-  appConfigs.serversColor = [...curAppConfigs.value.serversColor];
-  appConfigs.races = [...curAppConfigs.value.races];
-  appConfigs.racesColor = curAppConfigs.value.racesColor.reduce((result, color, index) => {
-    result[curAppConfigs.value.races[index]] = color;
+function syncModifiedConfigs(cfg) {
+  appConfigs.servers = cfg.servers.slice();
+  appConfigs.serversColor = cfg.serversColor.slice();
+  appConfigs.races = cfg.races.slice();
+  appConfigs.racesColor = cfg.racesColor.reduce((result, color, index) => {
+    result[cfg.races[index]] = color;
     return result;
   }, {});
-  appConfigs.gameApiUrl = curAppConfigs.value.gameApiUrl;
-  appConfigs.acntApiUrl = curAppConfigs.value.acntApiUrl;
+  appConfigs.gameApiUrl = cfg.gameApiUrl;
+  appConfigs.acntApiUrl = cfg.acntApiUrl;
 }
 
 function resetConfig() {
   window.localStorage.removeItem('curAppConfigs');
-  curAppConfigs.value = {
-    servers: [...appConfigs.defaultConfigs.servers],
-    serversColor: [...appConfigs.defaultConfigs.serversColor],
-    races: [...appConfigs.defaultConfigs.races],
-    racesColor: Object.values(appConfigs.defaultConfigs.racesColor),
-    gameApiUrl: appConfigs.defaultConfigs.gameApiUrl,
-    acntApiUrl: appConfigs.defaultConfigs.acntApiUrl,
-  };
-  syncModifiedConfigs();
+  syncModifiedConfigs(appConfigs.defaultConfigs);
+  appConfigs.appCfgChange = true;
   $q.notify({
     type: 'positive',
     icon: 'fa-regular fa-circle-check',
@@ -216,7 +211,7 @@ function updateConfig() {
   configForm.value.validate().then((isSuccessed) => {
     if (isSuccessed) {
       window.localStorage.setItem('curAppConfigs', JSON.stringify(curAppConfigs.value));
-      syncModifiedConfigs();
+      syncModifiedConfigs(curAppConfigs.value);
       $q.notify({
         type: 'positive',
         icon: 'fa-regular fa-circle-check',
@@ -226,5 +221,19 @@ function updateConfig() {
     } else $q.notify({ message: 'Invalid app configs' });
   });
 }
+
+watch(() => appConfigs.appCfgChange, (v) => {
+  if (v) {
+    curAppConfigs.value = {
+      servers: appConfigs.servers.slice(),
+      serversColor: appConfigs.serversColor.slice(),
+      races: appConfigs.races.slice(),
+      racesColor: Object.values(appConfigs.racesColor),
+      gameApiUrl: appConfigs.gameApiUrl,
+      acntApiUrl: appConfigs.acntApiUrl,
+    };
+    appConfigs.appCfgChange = false;
+  }
+});
 
 </script>

@@ -5,6 +5,8 @@ import { getFontColorInBg, transIso2Country } from 'src/utils/common';
 import { Notify } from 'quasar';
 
 export const useAppConfigsStore = defineStore('AppConfigs', () => {
+  const appMode = ref('dev');
+  const appCfgChange = ref(false);
   const defaultConfigs = {
     gameApiUrl: process.env.GAME_URL,
     acntApiUrl: process.env.ACNT_URL,
@@ -12,14 +14,10 @@ export const useAppConfigsStore = defineStore('AppConfigs', () => {
     servers: ['server1', 'server2', 'server3'],
     serversColor: ['#7B8078', '#557D78', '#C4AF8C'],
     races: ['A', 'B', 'C'],
-    racesColor: {
-      A: '#d47024',
-      B: '#249111',
-      C: '#2b9cff',
-    },
+    racesColor: ['#d47024', '#249111', '#2b9cff'],
   };
-  const userConfigs = window.localStorage.getItem('appConfigs')
-    ? JSON.parse(window.localStorage.getItem('appConfigs')) : undefined;
+  const userConfigs = window.localStorage.getItem('curAppConfigs')
+    ? JSON.parse(window.localStorage.getItem('curAppConfigs')) : undefined;
 
   const gameApiUrl = ref(userConfigs?.gameApiUrl || defaultConfigs.gameApiUrl);
   const acntApiUrl = ref(userConfigs?.acntApiUrl || defaultConfigs.acntApiUrl);
@@ -33,13 +31,14 @@ export const useAppConfigsStore = defineStore('AppConfigs', () => {
   ));
 
   const races = ref(userConfigs?.races || defaultConfigs.races);
-  const racesColor = ref(
-    userConfigs?.racesColor?.reduce((result, color, index) => {
-      result[races.value[index]] = color;
-      return result;
-    }, {})
-    || defaultConfigs.racesColor,
-  );
+
+  function arr2RaceObj(result, value, index) {
+    result[races.value[index]] = value;
+    return result;
+  }
+
+  const racesColor = ref(userConfigs?.racesColor?.reduce(arr2RaceObj, {})
+    || defaultConfigs.racesColor.reduce(arr2RaceObj, {}));
   const raceFontColor = computed(() => racesColor.value.map((rColor) => getFontColorInBg(rColor)));
 
   const showSettingDlg = ref(false);
@@ -104,7 +103,33 @@ export const useAppConfigsStore = defineStore('AppConfigs', () => {
     return output;
   }
 
+  window.addEventListener('storage', (event) => {
+    const newCfg = event.newValue;
+
+    if (newCfg) {
+      const cfg = JSON.parse(newCfg);
+
+      servers.value = cfg.servers;
+      serversColor.value = cfg.serversColor;
+      races.value = cfg.races;
+      racesColor.value = cfg.racesColor.reduce(arr2RaceObj, {});
+      gameApiUrl.value = cfg.gameApiUrl;
+      acntApiUrl.value = cfg.acntApiUrl;
+    } else {
+      servers.value = defaultConfigs.servers;
+      serversColor.value = defaultConfigs.serversColor;
+      races.value = defaultConfigs.races;
+      racesColor.value = defaultConfigs.racesColor;
+      gameApiUrl.value = defaultConfigs.gameApiUrl;
+      acntApiUrl.value = defaultConfigs.acntApiUrl;
+    }
+
+    appCfgChange.value = true;
+  });
+
   return {
+    appMode,
+    appCfgChange,
     defaultConfigs,
     gameApiUrl,
     acntApiUrl,
