@@ -4,9 +4,8 @@
       <q-bar class="glossy q-py-md">
         <div class="col text-center text-weight-bold">Game Admin</div>
         <q-space />
-        <q-icon name="fa-solid fa-gear" class="cursor-pointer mr-md" title="Setting"
+        <q-icon name="fa-solid fa-gear" class="cursor-pointer q-mr-md" title="Setting"
           @click="appConfigs.showSettingDlg = true" />
-        <q-space />
         <q-icon name="fa-solid fa-circle-info" class="cursor-pointer" title="Help"
           @click="appConfigs.showHelpDlg = true" />
       </q-bar>

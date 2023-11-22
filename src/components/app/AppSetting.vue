@@ -179,7 +179,6 @@ const pattern = new RegExp(
 const examURL = (url) => appConfigs.appMode === 'dev' || pattern.test(url);
 
 function rollbackOriginalConfig() {
-  console.log('rollback config');
   curAppConfigs.value = {
     servers: appConfigs.servers.slice(),
     serversColor: appConfigs.serversColor.slice(),
@@ -188,7 +187,6 @@ function rollbackOriginalConfig() {
     gameApiUrl: appConfigs.gameApiUrl,
     acntApiUrl: appConfigs.acntApiUrl,
   };
-  console.log(curAppConfigs.value.serversColor);
 }
 
 function editConfigs(action, obj, index) {
