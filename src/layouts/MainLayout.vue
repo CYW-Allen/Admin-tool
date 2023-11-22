@@ -4,11 +4,15 @@
       <q-bar class="glossy q-py-md">
         <div class="col text-center text-weight-bold">Game Admin</div>
         <q-space />
-        <q-icon name="fa-solid fa-gear" class="cursor-pointer" title="設定" @click="appConfigs.showSettingDlg = true" />
+        <q-icon name="fa-solid fa-gear" class="cursor-pointer mr-md" title="Setting"
+          @click="appConfigs.showSettingDlg = true" />
+        <q-space />
+        <q-icon name="fa-solid fa-circle-info" class="cursor-pointer" title="Help"
+          @click="appConfigs.showHelpDlg = true" />
       </q-bar>
 
       <AppSetting />
-
+      <OperHelper />
       <OperPanel />
     </q-header>
 
@@ -35,6 +39,7 @@ import { defineAsyncComponent } from 'vue';
 import { useAppConfigsStore } from 'src/stores/AppConfigs';
 import { useOperPanelStore } from 'src/stores/OperPanel';
 import AppSetting from 'src/components/app/AppSetting.vue';
+import OperHelper from 'src/components/app/OperHelper.vue';
 import OperPanel from 'src/components/app/OperPanel.vue';
 import ChartTable from 'src/components/common/ChartTable.vue';
 import BanUnbanDlg from 'src/components/common/BanUnbanDlg.vue';

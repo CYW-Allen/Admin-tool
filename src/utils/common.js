@@ -9,7 +9,17 @@ function downloadCsv(filename, data) {
     'text/csv',
   );
 
-  if (!isSuccess) Notify.create('資料匯出失敗');
+  if (!isSuccess) Notify.create('Fail to export the data');
+}
+
+function exportJSON(filename, content) {
+  const isSuccess = exportFile(
+    `${filename}.json`,
+    JSON.stringify(content),
+    'application/json',
+  );
+
+  if (!isSuccess) Notify.create('Fail to export the object');
 }
 
 // formula https://en.wikipedia.org/wiki/HSL_and_HSV#HSL_to_RGB_alternative
@@ -70,5 +80,5 @@ function transformArr(arr) {
 }
 
 export {
-  getFontColorInBg, getRandomHexColor, transformArr, downloadCsv, transIso2Country,
+  getFontColorInBg, getRandomHexColor, transformArr, downloadCsv, exportJSON, transIso2Country,
 };

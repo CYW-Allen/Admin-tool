@@ -2,7 +2,9 @@
   <q-dialog v-model="appConfigs.showSettingDlg" persistent>
     <q-card style="width: 900px;max-width: 100vw;">
       <q-card-section class="row items-center q-pb-none">
-        <div class="text-h5 text-bold">APP configs</div>
+        <div class="text-h5 text-bold row justify-start items-center">
+          <span class="q-mr-md">APP configs</span>
+        </div>
         <q-space />
         <q-icon name="fa-solid fa-xmark" size="md" class="cursor-pointer" v-close-popup @click="rollbackOriginalConfig" />
       </q-card-section>
@@ -121,7 +123,14 @@
             </q-expansion-item>
           </q-list>
 
-          <div class="q-mt-md" align="right">
+          <div class="q-mt-md row justify-between items-center">
+            <q-btn-group glossy push>
+              <q-btn label="Import" color="green" @click="uploadEle.pickFiles()">
+                <q-file ref="uploadEle" borderless class="hidden" v-model="configFile" accept=".json"
+                  @rejected="onRejected" />
+              </q-btn>
+              <q-btn label="Export" color="indigo" @click="exportJSON('appSetting', curAppConfigs)" />
+            </q-btn-group>
             <q-btn-group glossy push>
               <q-btn label="Reset" color="grey" v-close-popup @click="resetConfig" />
               <q-btn label="Apply" color="primary" @click="updateConfig" />
@@ -137,9 +146,11 @@
 import { ref, watch } from 'vue';
 import { useQuasar } from 'quasar';
 import { useAppConfigsStore } from 'src/stores/AppConfigs';
+import { exportJSON } from 'src/utils/common';
 
 const $q = useQuasar();
 const appConfigs = useAppConfigsStore();
+
 const curAppConfigs = ref({
   servers: [...appConfigs.servers],
   serversColor: [...appConfigs.serversColor],
@@ -149,6 +160,12 @@ const curAppConfigs = ref({
   acntApiUrl: appConfigs.acntApiUrl,
 });
 const configForm = ref(null);
+const uploadEle = ref(null);
+const configFile = ref(null);
+
+function onRejected() {
+  $q.notify({ message: 'Only accept JSON file' });
+}
 
 const pattern = new RegExp(
   '^(https?:\\/\\/)?'
@@ -221,6 +238,61 @@ function updateConfig() {
     } else $q.notify({ message: 'Invalid app configs' });
   });
 }
+
+function importConfig(content) {
+  try {
+    const importCfg = JSON.parse(content);
+    const newCfg = {};
+
+    ['servers', 'races'].forEach((obj) => {
+      if (importCfg[obj] && importCfg[obj] instanceof Array
+        && importCfg[`${obj}Color`] && importCfg[`${obj}Color`] instanceof Array) {
+        if (importCfg[obj].length === importCfg[`${obj}Color`].length) {
+          newCfg[obj] = importCfg[obj];
+          newCfg[`${obj}Color`] = importCfg[`${obj}Color`];
+        }
+      }
+    });
+
+    if (importCfg.gameApiUrl && typeof importCfg.gameApiUrl === 'string') {
+      newCfg.gameApiUrl = importCfg.gameApiUrl;
+    }
+
+    if (importCfg.acntApiUrl && typeof importCfg.acntApiUrl === 'string') {
+      newCfg.acntApiUrl = importCfg.acntApiUrl;
+    }
+
+    curAppConfigs.value = {
+      ...curAppConfigs.value,
+      ...newCfg,
+    };
+
+    return true;
+  } catch (err) {
+    console.log('[examImport] Error: ', err);
+    return false;
+  }
+}
+
+watch(configFile, (file) => {
+  if (file !== null) {
+    const fileReader = new FileReader();
+    fileReader.onload = () => {
+      if (importConfig(fileReader.result)) {
+        $q.notify({
+          type: 'positive',
+          icon: 'fa-regular fa-circle-check',
+          message: 'Success to load the configs',
+        });
+      } else {
+        $q.notify({ message: 'Fail to parse the config' });
+      }
+      configFile.value = null;
+    };
+
+    fileReader.readAsText(file);
+  }
+});
 
 watch(() => appConfigs.appCfgChange, (v) => {
   if (v) {

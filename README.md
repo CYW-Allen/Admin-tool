@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="about/logo.png" alt="Logo" width="200">
+  <a href="#">
+    <img src="./public/about/logo.png" alt="Logo" width="200">
   </a>
   <div style="font-size:12px;margin:20px;">
     <a href="https://www.flaticon.com/free-icons/database" title="database icons">
@@ -41,10 +41,10 @@
 ## About The Project
 
 ### Screen shot
-  ![frontpage](/about/frontpage.png)
+  ![frontpage](/public/about/frontpage.png)
 
 ### Layout architecture
-  ![layout architecture](/about/admin_tool_arch.png)
+  ![layout architecture](/public/about/admin_tool_arch.png)
 
   The diagram above illustrates the hierarchical structure of the application. Rectangles denote specific areas within the app's layout, while rounded rectangles represent individual components. For instance, within the **Header** section, you'll find two components: **`Setting`** and **`OperPanel`**. Inside the **`PlayerInfos`** component, there is a component called **`DataBlock`**, which encapsulates another component named **`ChartComp`**.
 
@@ -109,37 +109,37 @@
 ## Functions Showcase
 
 ### Dashboard
-![Page dashboard manipulation](/about/operation-Dashboard-min.gif)
+![Page dashboard manipulation](/public/about/operation-SvrDashboard-min.gif)
 
 ### Statistic
-![Page statistic manipulation](/about/operation-Statistic-min.gif)
+![Page statistic manipulation](/public/about/operation-SvrStat-min.gif)
 
 ### PlayerInfos
-![Page playerInfos manipulation](/about/operation-PlayerInfos-min.gif)
+![Page playerInfos manipulation](/public/about/operation-PlayerInfos-min.gif)
 
 ### Account Relation
-![Page accountRelation manipulation](/about/operation-AccountRelation-min.gif)
+![Page accountRelation manipulation](/public/about/operation-AcntRelation-min.gif)
 
 ### ChipWar Records
-![Page chipwarRecord manipulation](/about/operation-ChipWarRecords-min.gif)
+![Page chipwarRecord manipulation](/public/about/operation-ChipWar-min.gif)
 
 ### Sale Records
-![Page saleRecord manipulation](/about/operation-SaleRecords-min.gif)
+![Page saleRecord manipulation](/public/about/operation-ItemPurchase-min.gif)
 
 ### PVP History
-![Page PVPhistory manipulation](/about/operation-PVPHistory-min.gif)
+![Page PVPhistory manipulation](/public/about/operation-PvpHistory-min.gif)
 
 ### Naming History
-![Page namingHistory manipulation](/about/operation-NamingHistory-min.gif)
+![Page namingHistory manipulation](/public/about/operation-NameHistory-min.gif)
 
 ### Selling Ranking
-![Page sellingRanking manipulation](/about/operation-SellingRanking-min.gif)
+![Page sellingRanking manipulation](/public/about/operation-ItemSellRanking-min.gif)
 
 ### New Roles List
-![Page newRoleList manipulation](/about/operation-NewRolesList-min.gif)
+![Page newRoleList manipulation](/public/about/operation-NewRoleList-min.gif)
 
 ### App config
-![Popup appConfig manipulation](/about/operation-AppConfig-min.gif)
+![Popup appConfig manipulation](/public/about/operation-AppConfig-min.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -42,6 +42,7 @@ export const useAppConfigsStore = defineStore('AppConfigs', () => {
   const raceFontColor = computed(() => racesColor.value.map((rColor) => getFontColorInBg(rColor)));
 
   const showSettingDlg = ref(false);
+  const showHelpDlg = ref(false);
 
   const appFuncs = [
     { label: 'Dashboard', value: 'SvrDashboard' },
@@ -105,7 +106,6 @@ export const useAppConfigsStore = defineStore('AppConfigs', () => {
 
   window.addEventListener('storage', (event) => {
     const newCfg = event.newValue;
-
     if (newCfg) {
       const cfg = JSON.parse(newCfg);
 
@@ -119,7 +119,7 @@ export const useAppConfigsStore = defineStore('AppConfigs', () => {
       servers.value = defaultConfigs.servers;
       serversColor.value = defaultConfigs.serversColor;
       races.value = defaultConfigs.races;
-      racesColor.value = defaultConfigs.racesColor;
+      racesColor.value = defaultConfigs.racesColor.reduce(arr2RaceObj, {});
       gameApiUrl.value = defaultConfigs.gameApiUrl;
       acntApiUrl.value = defaultConfigs.acntApiUrl;
     }
@@ -144,6 +144,7 @@ export const useAppConfigsStore = defineStore('AppConfigs', () => {
     appFuncs,
     queryCacheCount,
     showSettingDlg,
+    showHelpDlg,
     ipLocation,
     acntIdInfo,
     updateIpLocation,
