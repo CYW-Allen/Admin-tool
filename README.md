@@ -79,7 +79,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/XXX/Admin-tool.git
+   git clone https://github.com/CYW-Allen/Admin-tool.git
    ```
 2. Install the dependencies
    ```sh
@@ -89,11 +89,12 @@
    ```sh
    npm i -g @quasar/cli
    ```
-4. Run the app in dev mode
+4. Create .env and fill the content based on .env.example
+5. Run the app in dev mode
    ```sh
    quasar dev
    ```
-   or for better performance build first
+   or for better performance build the project first
    ```sh
    quasar build
    ```
